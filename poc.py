@@ -1,7 +1,8 @@
-import numpy as np
 import time
 
-# 1. Our raw data arrays. 
+import numpy as np
+
+# 1. Our raw data arrays.
 # In the final library, we will load these from massive text files.
 first_names = np.array(["Kashan", "Sarah", "Mudassar", "Alex", "Jordan"])
 last_names = np.array(["Haider", "Hakkim", "Awan", "Smith", "Doe"])
@@ -16,7 +17,7 @@ random_firsts = np.random.choice(first_names, size=100000)
 random_lasts = np.random.choice(last_names, size=100000)
 
 # 3. Vectorized Concatenation
-# Instead of looping to combine "First + Space + Last", 
+# Instead of looping to combine "First + Space + Last",
 # np.char.add joins the entire arrays together all at once.
 full_names = np.char.add(np.char.add(random_firsts, " "), random_lasts)
 

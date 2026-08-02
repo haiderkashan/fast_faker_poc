@@ -49,12 +49,12 @@ schema = {
     "id": fake.uuid4,
     "name": fake.full_name,
     "email": fake.email,
-    "city": fake.city
+    "city": fake.city,
 }
 
 # Returns a standard list of dictionaries instantly
 data = fake.generate(schema=schema, total=10000)
-print(data[0]) # {'id': '...', 'name': '...', 'email': '...', 'city': '...'}
+print(data[0])  # {'id': '...', 'name': '...', 'email': '...', 'city': '...'}
 ```
 
 ### Level 2: Export straight to CSV (Data Science)
@@ -67,8 +67,10 @@ from functools import partial
 # Add custom arguments using functools.partial
 schema = {
     "name": fake.full_name,
-    "joined_at": partial(fake.date_between, start_date="2020-01-01", end_date="2025-01-01"),
-    "is_active": fake.boolean
+    "joined_at": partial(
+        fake.date_between, start_date="2020-01-01", end_date="2025-01-01"
+    ),
+    "is_active": fake.boolean,
 }
 
 # Generates 1 MILLION rows and saves them to a file in ~8 seconds
@@ -83,17 +85,21 @@ If you are seeding a database, use the async batch generator to stream data with
 import asyncio
 from async_batch_faker import AsyncBatchFaker
 
+
 async def seed_db():
     fake = AsyncBatchFaker()
     schema = {"id": fake.uuid4, "email": fake.email, "ip": fake.ipv4}
 
     # Generates 500,000 records, yielding in chunks of 50,000
-    batch_generator = fake.generate_batches(schema=schema, total=500000, batch_size=50000)
+    batch_generator = fake.generate_batches(
+        schema=schema, total=500000, batch_size=50000
+    )
 
     async for batch in batch_generator:
         # Bulk-insert this batch to your database here
         # await db.executemany(query, batch)
         print(f"Inserted {len(batch)} records...")
+
 
 if __name__ == "__main__":
     asyncio.run(seed_db())
