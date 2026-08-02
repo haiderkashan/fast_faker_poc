@@ -2,6 +2,7 @@ import numpy as np
 import asyncio
 import uuid
 import difflib
+import csv
 from pathlib import Path
 
 class AsyncBatchFaker:
@@ -162,3 +163,41 @@ class AsyncBatchFaker:
             ]
             yield batch_records
             await asyncio.sleep(0)
+
+    def generate(self, schema, total):
+        """
+        BEGINNER FRIENDLY: Generates mock data synchronously and returns a standard Python list.
+        No asyncio or batching knowledge required!
+        
+        Example:
+            records = fake.generate({"name": fake.full_name}, total=100)
+        """
+        async def _run_sync():
+            results = []
+            # We use one massive batch for speed since they just want a list
+            async for batch in self.generate_batches(schema, total, batch_size=total):
+                results.extend(batch)
+            return results
+            
+        return asyncio.run(_run_sync())    
+
+    def to_csv(self, schema, total, filename="mock_data.csv", batch_size=100_000):
+        """
+        BEGINNER FRIENDLY: Generates mock data and streams it directly to a CSV file.
+        
+        Example:
+            fake.to_csv({"name": fake.full_name}, total=1_000_000, filename="users.csv")
+        """
+        import csv
+        
+        async def _run_export():
+            with open(filename, mode='w', newline='', encoding='utf-8') as f:
+                writer = csv.DictWriter(f, fieldnames=list(schema.keys()))
+                writer.writeheader()
+                
+                print(f"✍️ Generating {total:,} rows and saving to {filename}...")
+                async for batch in self.generate_batches(schema, total, batch_size):
+                    writer.writerows(batch)
+            print("✅ CSV Export Complete!")
+                    
+        asyncio.run(_run_export())    
