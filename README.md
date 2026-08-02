@@ -23,6 +23,16 @@ Benchmarked generating 100,000 complex records (UUIDs, localized names, emails, 
 
 ---
 
+## The 100MB PyPI Bypass (Dynamic Auto-Downloading)
+
+To bypass PyPI's strict 100MB upload limits while giving you access to gigabytes of worldwide synthetic data, this library uses a Two-Tier Architecture:
+
+- **Lightweight Core:** The pip package installs instantly, bundling only the blazing-fast core engine and standard en_US datasets.
+
+- **Transparent Auto-Fetching:** When you initialize an international locale (e.g., AsyncBatchFaker(locale="fr_FR")), the engine intercepts the request and silently auto-downloads the highly optimized JSON data package from our GitHub Releases directly into your local ~/.cache/async_batch_faker/ directory.
+
+It only downloads once. Every subsequent run loads the locale from your local NVMe/SSD directly into memory at blistering speed.
+
 ## 📦 Installation
 
 ```bash
@@ -63,6 +73,9 @@ Need a massive dataset for Pandas, Excel, or Kaggle? Stream it directly to a fil
 
 ```python
 from functools import partial
+from async_batch_faker import AsyncBatchFaker
+
+fake = AsyncBatchFaker()
 
 # Add custom arguments using functools.partial
 schema = {
@@ -85,7 +98,6 @@ If you are seeding a database, use the async batch generator to stream data with
 import asyncio
 from async_batch_faker import AsyncBatchFaker
 
-
 async def seed_db():
     fake = AsyncBatchFaker()
     schema = {"id": fake.uuid4, "email": fake.email, "ip": fake.ipv4}
@@ -99,7 +111,6 @@ async def seed_db():
         # Bulk-insert this batch to your database here
         # await db.executemany(query, batch)
         print(f"Inserted {len(batch)} records...")
-
 
 if __name__ == "__main__":
     asyncio.run(seed_db())

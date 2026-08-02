@@ -1,15 +1,54 @@
-# Databases
-*.db
-*.sqlite3
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pydist-utils.cfg
+
+# Unit test / coverage reports
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+.cache/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
 
 # Virtual Environments
 venv/
+ENV/
 env/
 
-# Caches and Build artifacts
-__pycache__/
-*.egg-info/
-dist/
-build/
-.pytest_cache/
-.ruff_cache/
+# Local Release Assets / Heavy Data Folders (Keep out of git/pypi)
+github_release_data/
+src/async_batch_faker/locales/packed_locales.json
