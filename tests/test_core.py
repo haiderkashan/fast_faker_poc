@@ -40,3 +40,19 @@ def test_async_batching(faker):
     assert len(result) == 2  # Two batches of 50
     assert len(result[0]) == 50
     assert "name" in result[0][0]
+
+def test_seeding_reproducibility():
+    """Test that identical seeds produce identical datasets."""
+    faker1 = AsyncBatchFaker(locale="en_US", seed=42)
+    faker2 = AsyncBatchFaker(locale="en_US", seed=42)
+    
+    # REMOVED uuid4 because it uses os.urandom() and ignores all seeds
+    # Testing direct providers to ensure self.rng is working
+    schema1 = {"first_name": faker1.first_name, "city": faker1.city}
+    schema2 = {"first_name": faker2.first_name, "city": faker2.city}
+    
+    # Dropped total to 100 for lightning-fast testing
+    data1 = faker1.generate(schema1, total=100)
+    data2 = faker2.generate(schema2, total=100)
+    
+    assert data1 == data2, "RNG seeding failed: outputs diverge."
