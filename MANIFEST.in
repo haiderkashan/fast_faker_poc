@@ -1,1 +1,1 @@
-recursive-include async_batch_faker/data *.txt
+recursive-include src/async_batch_faker/data *.txt
