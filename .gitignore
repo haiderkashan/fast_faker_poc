@@ -1,17 +1,15 @@
-# Python
-__pycache__/
-*.py[cod]
-*.so
-.Python
-env/
-venv/
-.venv/
+# Databases
+*.db
+*.sqlite3
 
-# Distribution / Packaging
+# Virtual Environments
+venv/
+env/
+
+# Caches and Build artifacts
+__pycache__/
+*.egg-info/
 dist/
 build/
-*.egg-info/
-
-# Databases
-mock_data.db
-*.sqlite3
+.pytest_cache/
+.ruff_cache/
