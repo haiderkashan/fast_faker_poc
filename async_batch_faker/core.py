@@ -1,6 +1,7 @@
 import numpy as np
 import asyncio
 import uuid
+import difflib
 from pathlib import Path
 
 class AsyncBatchFaker:
@@ -41,16 +42,46 @@ class AsyncBatchFaker:
     # --- The Magic "Catch-All" Provider ---
     def __getattr__(self, name):
         """
-        Intercepts any method call. If a .txt file matches the method name, 
-        it automatically builds a high-speed numpy generator for it.
+        Intercepts any method call. If it doesn't exist, it smartly suggests the closest match.
         """
         if name in self.data:
             def dynamic_provider(size):
                 return np.random.choice(self.data[name], size=size)
             return dynamic_provider
         
-        raise AttributeError(f"'{self.__class__.__name__}' has no provider '{name}' or dataset '{name}.txt'")
+        available = self.get_providers()
+        matches = difflib.get_close_matches(name, available, n=1, cutoff=0.5)
+        suggestion = f" Did you mean '{matches[0]}'?" if matches else ""
+        
+        error_msg = (
+            f"'{self.__class__.__name__}' has no provider '{name}'.{suggestion}\n"
+            f"💡 Tip: Run `print(fake.get_providers())` to see all available datasets."
+        )
+        raise AttributeError(error_msg)
 
+    @staticmethod
+    def available_locales():
+        """Returns a list of all downloaded locales in the data folder."""
+        data_dir = Path(__file__).parent / "data"
+        if not data_dir.exists():
+            return []
+        locales = [d.name for d in data_dir.iterdir() if d.is_dir() and d.name != "global"]
+        return sorted(locales)
+
+    def get_providers(self):
+        """Returns a list of all available data providers for this locale."""
+        # The dynamic text file providers
+        dynamic = list(self.data.keys())
+        # The hardcoded math/logic providers
+        hardcoded = [
+            "age", "boolean", "uuid4", "ipv4", "mac_address", 
+            "credit_card_visa", "date_between", "full_name", "email"
+        ]
+        return sorted(dynamic + hardcoded)
+
+    def __dir__(self):
+        """Overrides built-in dir() to show dynamic providers in IDEs and terminals."""
+        return super().__dir__() + self.get_providers()
 
     # --- High-Speed Math & Logic Providers (The ones we didn't download) ---
     def age(self, size, min_age=18, max_age=65):

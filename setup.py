@@ -9,13 +9,11 @@ setup(
     long_description_content_type="text/markdown",
     packages=find_packages(),
     
-    # CRITICAL: This tells pip to include your .txt locale files!
     include_package_data=True,
     package_data={
         "async_batch_faker": ["data/*/*.txt", "data/*.txt"],
     },
     
-    # These are the libraries someone needs to run your code
     install_requires=[
         "numpy>=1.20.0",
     ],

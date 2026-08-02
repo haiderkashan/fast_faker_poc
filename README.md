@@ -51,13 +51,38 @@ if __name__ == "__main__":
     asyncio.run(main())
 ```
 
-## Locales
+## 🔍 Exploring the Data (No Guessing Required)
 
-We currently support English (US) and Urdu (Pakistan). Switch locales easily to generate region-specific names and domains:
+Because `async-batch-faker` dynamically loads thousands of datasets directly from text files, you might wonder exactly what fields you can generate.
+
+We built helper methods directly into the engine so you never have to guess.
+
+### View all available data fields
 
 ```python
-# Generates Pakistani names (e.g., Mudassar Awan) and domains (e.g., zong.com.pk)
-fake_pk = AsyncBatchFaker(locale="ur_PK")
+from async_batch_faker import AsyncBatchFaker
+
+fake = AsyncBatchFaker(locale="en_US")
+
+# Prints an alphabetical list of EVERY provider you can use!
+# Examples: 'color_name', 'cryptocurrency_code', 'mime_type', 'job_title'
+print(fake.get_providers())
+```
+
+### View all supported countries/locales
+
+```python
+# Prints a list of all 100+ supported locales (e.g., 'ur_PK', 'fr_FR', 'ja_JP')
+print(AsyncBatchFaker.available_locales())
+```
+
+### Typo Protection
+
+If you misspell a provider, the engine won't just crash—it will analyze your typo and suggest the correct field automatically.
+
+```python
+fake.colr(size=100)
+# AttributeError: 'AsyncBatchFaker' has no provider 'colr'. Did you mean 'color_name'?
 ```
 
 ## License
