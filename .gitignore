@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# Databases
+mock_data.db
+*.sqlite3

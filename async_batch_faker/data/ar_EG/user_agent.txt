@@ -1,0 +1,1857 @@
+Mozilla/5.0 (Android 1.0; Mobile; rv:36.0) Gecko/36.0 Firefox/36.0
+Mozilla/5.0 (Android 1.0; Mobile; rv:64.0) Gecko/64.0 Firefox/64.0
+Mozilla/5.0 (Android 1.5; Mobile; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 1.6; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Android 1.6; Mobile; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 10; Mobile; rv:30.0) Gecko/30.0 Firefox/30.0
+Mozilla/5.0 (Android 10; Mobile; rv:34.0) Gecko/34.0 Firefox/34.0
+Mozilla/5.0 (Android 10; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 10; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0
+Mozilla/5.0 (Android 11; Mobile; rv:29.0) Gecko/29.0 Firefox/29.0
+Mozilla/5.0 (Android 12.1; Mobile; rv:21.0) Gecko/21.0 Firefox/21.0
+Mozilla/5.0 (Android 13; Mobile; rv:10.0) Gecko/10.0 Firefox/10.0
+Mozilla/5.0 (Android 13; Mobile; rv:17.0) Gecko/17.0 Firefox/17.0
+Mozilla/5.0 (Android 13; Mobile; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 14; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0
+Mozilla/5.0 (Android 2.0.1; Mobile; rv:23.0) Gecko/23.0 Firefox/23.0
+Mozilla/5.0 (Android 2.0.1; Mobile; rv:30.0) Gecko/30.0 Firefox/30.0
+Mozilla/5.0 (Android 2.0; Mobile; rv:44.0) Gecko/44.0 Firefox/44.0
+Mozilla/5.0 (Android 2.2.1; Mobile; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 2.2.3; Mobile; rv:55.0) Gecko/55.0 Firefox/55.0
+Mozilla/5.0 (Android 2.3.1; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 2.3.1; Mobile; rv:61.0) Gecko/61.0 Firefox/61.0
+Mozilla/5.0 (Android 2.3.1; Mobile; rv:67.0) Gecko/67.0 Firefox/67.0
+Mozilla/5.0 (Android 2.3.5; Mobile; rv:12.0) Gecko/12.0 Firefox/12.0
+Mozilla/5.0 (Android 2.3.5; Mobile; rv:28.0) Gecko/28.0 Firefox/28.0
+Mozilla/5.0 (Android 2.3.5; Mobile; rv:29.0) Gecko/29.0 Firefox/29.0
+Mozilla/5.0 (Android 2.3.5; Mobile; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 2.3.6; Mobile; rv:9.0) Gecko/9.0 Firefox/9.0
+Mozilla/5.0 (Android 2.3.7; Mobile; rv:15.0) Gecko/15.0 Firefox/15.0
+Mozilla/5.0 (Android 2.3.7; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android 2.3; Mobile; rv:23.0) Gecko/23.0 Firefox/23.0
+Mozilla/5.0 (Android 3.1; Mobile; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 3.2.2; Mobile; rv:59.0) Gecko/59.0 Firefox/59.0
+Mozilla/5.0 (Android 3.2.4; Mobile; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android 3.2.5; Mobile; rv:33.0) Gecko/33.0 Firefox/33.0
+Mozilla/5.0 (Android 3.2.5; Mobile; rv:37.0) Gecko/37.0 Firefox/37.0
+Mozilla/5.0 (Android 3.2.5; Mobile; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 3.2.5; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0
+Mozilla/5.0 (Android 3.2.6; Mobile; rv:64.0) Gecko/64.0 Firefox/64.0
+Mozilla/5.0 (Android 3.2; Mobile; rv:36.0) Gecko/36.0 Firefox/36.0
+Mozilla/5.0 (Android 3.2; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android 4.0.1; Mobile; rv:46.0) Gecko/46.0 Firefox/46.0
+Mozilla/5.0 (Android 4.0.1; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Android 4.0.2; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0
+Mozilla/5.0 (Android 4.0.3; Mobile; rv:39.0) Gecko/39.0 Firefox/39.0
+Mozilla/5.0 (Android 4.0.3; Mobile; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (Android 4.0; Mobile; rv:17.0) Gecko/17.0 Firefox/17.0
+Mozilla/5.0 (Android 4.0; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0
+Mozilla/5.0 (Android 4.1.1; Mobile; rv:48.0) Gecko/48.0 Firefox/48.0
+Mozilla/5.0 (Android 4.1.2; Mobile; rv:23.0) Gecko/23.0 Firefox/23.0
+Mozilla/5.0 (Android 4.3.1; Mobile; rv:6.0) Gecko/6.0 Firefox/6.0
+Mozilla/5.0 (Android 4.3.1; Mobile; rv:64.0) Gecko/64.0 Firefox/64.0
+Mozilla/5.0 (Android 4.3.1; Mobile; rv:9.0) Gecko/9.0 Firefox/9.0
+Mozilla/5.0 (Android 4.4.1; Mobile; rv:19.0) Gecko/19.0 Firefox/19.0
+Mozilla/5.0 (Android 4.4.1; Mobile; rv:33.0) Gecko/33.0 Firefox/33.0
+Mozilla/5.0 (Android 4.4.1; Mobile; rv:57.0) Gecko/57.0 Firefox/57.0
+Mozilla/5.0 (Android 4.4.2; Mobile; rv:24.0) Gecko/24.0 Firefox/24.0
+Mozilla/5.0 (Android 4.4.2; Mobile; rv:25.0) Gecko/25.0 Firefox/25.0
+Mozilla/5.0 (Android 4.4; Mobile; rv:14.0) Gecko/14.0 Firefox/14.0
+Mozilla/5.0 (Android 5.0.2; Mobile; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 5.0; Mobile; rv:33.0) Gecko/33.0 Firefox/33.0
+Mozilla/5.0 (Android 5.1.1; Mobile; rv:41.0) Gecko/41.0 Firefox/41.0
+Mozilla/5.0 (Android 5.1; Mobile; rv:15.0) Gecko/15.0 Firefox/15.0
+Mozilla/5.0 (Android 6.0; Mobile; rv:35.0) Gecko/35.0 Firefox/35.0
+Mozilla/5.0 (Android 6.0; Mobile; rv:52.0) Gecko/52.0 Firefox/52.0
+Mozilla/5.0 (Android 7.0; Mobile; rv:31.0) Gecko/31.0 Firefox/31.0
+Mozilla/5.0 (Android 7.0; Mobile; rv:53.0) Gecko/53.0 Firefox/53.0
+Mozilla/5.0 (Android 7.1.1; Mobile; rv:32.0) Gecko/32.0 Firefox/32.0
+Mozilla/5.0 (Android 7.1.1; Mobile; rv:49.0) Gecko/49.0 Firefox/49.0
+Mozilla/5.0 (Android 7.1.2; Mobile; rv:25.0) Gecko/25.0 Firefox/25.0
+Mozilla/5.0 (Android 7.1; Mobile; rv:64.0) Gecko/64.0 Firefox/64.0
+Mozilla/5.0 (Android 8.1.0; Mobile; rv:14.0) Gecko/14.0 Firefox/14.0
+Mozilla/5.0 (Android 9; Mobile; rv:63.0) Gecko/63.0 Firefox/63.0
+Mozilla/5.0 (Android 9; Mobile; rv:64.0) Gecko/64.0 Firefox/64.0
+Mozilla/5.0 (Linux; Android 1.0) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/35.0.875.0 Safari/533.0
+Mozilla/5.0 (Linux; Android 1.5) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/63.0.888.0 Safari/531.2
+Mozilla/5.0 (Linux; Android 1.5) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/14.0.801.0 Safari/532.2
+Mozilla/5.0 (Linux; Android 1.5) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/22.0.830.0 Safari/534.2
+Mozilla/5.0 (Linux; Android 1.5) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/47.0.838.0 Safari/535.0
+Mozilla/5.0 (Linux; Android 1.6) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/54.0.886.0 Safari/531.1
+Mozilla/5.0 (Linux; Android 1.6) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/52.0.846.0 Safari/532.0
+Mozilla/5.0 (Linux; Android 1.6) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/53.0.836.0 Safari/536.2
+Mozilla/5.0 (Linux; Android 10) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/14.0.818.0 Safari/534.1
+Mozilla/5.0 (Linux; Android 10) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/20.0.817.0 Safari/536.1
+Mozilla/5.0 (Linux; Android 10) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/42.0.895.0 Safari/536.2
+Mozilla/5.0 (Linux; Android 11) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/43.0.837.0 Safari/532.0
+Mozilla/5.0 (Linux; Android 11) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/23.0.891.0 Safari/535.2
+Mozilla/5.0 (Linux; Android 12) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/14.0.849.0 Safari/536.1
+Mozilla/5.0 (Linux; Android 12) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/56.0.818.0 Safari/536.1
+Mozilla/5.0 (Linux; Android 12.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/21.0.841.0 Safari/533.0
+Mozilla/5.0 (Linux; Android 12.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/27.0.822.0 Safari/533.0
+Mozilla/5.0 (Linux; Android 13) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/36.0.850.0 Safari/531.2
+Mozilla/5.0 (Linux; Android 13) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/14.0.889.0 Safari/534.0
+Mozilla/5.0 (Linux; Android 14) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/47.0.812.0 Safari/531.0
+Mozilla/5.0 (Linux; Android 14) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.802.0 Safari/535.1
+Mozilla/5.0 (Linux; Android 2.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/43.0.891.0 Safari/533.1
+Mozilla/5.0 (Linux; Android 2.0.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/60.0.863.0 Safari/535.1
+Mozilla/5.0 (Linux; Android 2.2) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/35.0.869.0 Safari/532.1
+Mozilla/5.0 (Linux; Android 2.2) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/19.0.850.0 Safari/536.0
+Mozilla/5.0 (Linux; Android 2.2.1) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/19.0.821.0 Safari/531.1
+Mozilla/5.0 (Linux; Android 2.2.1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/21.0.816.0 Safari/534.1
+Mozilla/5.0 (Linux; Android 2.2.1) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/32.0.812.0 Safari/535.0
+Mozilla/5.0 (Linux; Android 2.2.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/23.0.882.0 Safari/536.0
+Mozilla/5.0 (Linux; Android 2.2.3) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/50.0.874.0 Safari/534.2
+Mozilla/5.0 (Linux; Android 2.2.3) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/16.0.822.0 Safari/536.0
+Mozilla/5.0 (Linux; Android 2.3.1) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/28.0.822.0 Safari/536.1
+Mozilla/5.0 (Linux; Android 2.3.1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/53.0.850.0 Safari/536.2
+Mozilla/5.0 (Linux; Android 2.3.3) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/24.0.837.0 Safari/535.2
+Mozilla/5.0 (Linux; Android 2.3.4) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/46.0.890.0 Safari/531.0
+Mozilla/5.0 (Linux; Android 2.3.4) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/24.0.857.0 Safari/533.2
+Mozilla/5.0 (Linux; Android 2.3.6) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/20.0.882.0 Safari/531.2
+Mozilla/5.0 (Linux; Android 3.0) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/39.0.851.0 Safari/531.1
+Mozilla/5.0 (Linux; Android 3.2) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/47.0.834.0 Safari/531.2
+Mozilla/5.0 (Linux; Android 3.2) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/20.0.845.0 Safari/534.0
+Mozilla/5.0 (Linux; Android 3.2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/54.0.869.0 Safari/535.1
+Mozilla/5.0 (Linux; Android 3.2.1) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/42.0.811.0 Safari/531.2
+Mozilla/5.0 (Linux; Android 3.2.1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/38.0.841.0 Safari/532.1
+Mozilla/5.0 (Linux; Android 3.2.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/48.0.899.0 Safari/536.0
+Mozilla/5.0 (Linux; Android 3.2.3) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/54.0.851.0 Safari/532.2
+Mozilla/5.0 (Linux; Android 3.2.4) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/53.0.888.0 Safari/531.0
+Mozilla/5.0 (Linux; Android 3.2.4) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/16.0.847.0 Safari/534.2
+Mozilla/5.0 (Linux; Android 3.2.6) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/21.0.849.0 Safari/531.0
+Mozilla/5.0 (Linux; Android 4.0) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/50.0.899.0 Safari/532.0
+Mozilla/5.0 (Linux; Android 4.0) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/41.0.831.0 Safari/535.2
+Mozilla/5.0 (Linux; Android 4.0) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/32.0.835.0 Safari/536.1
+Mozilla/5.0 (Linux; Android 4.0.2) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/30.0.892.0 Safari/534.0
+Mozilla/5.0 (Linux; Android 4.0.3) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/53.0.857.0 Safari/532.1
+Mozilla/5.0 (Linux; Android 4.0.4) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/35.0.888.0 Safari/532.0
+Mozilla/5.0 (Linux; Android 4.0.4) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/15.0.846.0 Safari/534.0
+Mozilla/5.0 (Linux; Android 4.1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/61.0.879.0 Safari/532.2
+Mozilla/5.0 (Linux; Android 4.1.1) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/56.0.840.0 Safari/534.0
+Mozilla/5.0 (Linux; Android 4.1.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/21.0.895.0 Safari/535.1
+Mozilla/5.0 (Linux; Android 4.1.1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/50.0.841.0 Safari/536.2
+Mozilla/5.0 (Linux; Android 4.2) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/26.0.825.0 Safari/531.2
+Mozilla/5.0 (Linux; Android 4.2) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/63.0.809.0 Safari/533.2
+Mozilla/5.0 (Linux; Android 4.2) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/29.0.855.0 Safari/534.1
+Mozilla/5.0 (Linux; Android 4.2) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/18.0.816.0 Safari/536.1
+Mozilla/5.0 (Linux; Android 4.2.1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/37.0.835.0 Safari/532.2
+Mozilla/5.0 (Linux; Android 4.2.2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/35.0.808.0 Safari/532.2
+Mozilla/5.0 (Linux; Android 4.3) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/50.0.851.0 Safari/533.0
+Mozilla/5.0 (Linux; Android 4.3.1) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/27.0.817.0 Safari/531.1
+Mozilla/5.0 (Linux; Android 4.3.1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/27.0.898.0 Safari/532.1
+Mozilla/5.0 (Linux; Android 4.3.1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/62.0.835.0 Safari/532.1
+Mozilla/5.0 (Linux; Android 4.3.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/38.0.814.0 Safari/535.1
+Mozilla/5.0 (Linux; Android 4.3.1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/62.0.844.0 Safari/536.2
+Mozilla/5.0 (Linux; Android 4.4) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/59.0.854.0 Safari/533.1
+Mozilla/5.0 (Linux; Android 4.4) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/36.0.847.0 Safari/536.0
+Mozilla/5.0 (Linux; Android 4.4.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/39.0.881.0 Safari/536.0
+Mozilla/5.0 (Linux; Android 4.4.2) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/26.0.825.0 Safari/531.1
+Mozilla/5.0 (Linux; Android 4.4.2) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/42.0.801.0 Safari/534.0
+Mozilla/5.0 (Linux; Android 4.4.3) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/21.0.825.0 Safari/531.1
+Mozilla/5.0 (Linux; Android 4.4.3) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/41.0.813.0 Safari/534.1
+Mozilla/5.0 (Linux; Android 4.4.4) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/62.0.852.0 Safari/536.2
+Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/57.0.830.0 Safari/531.2
+Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/54.0.852.0 Safari/533.1
+Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/61.0.890.0 Safari/535.2
+Mozilla/5.0 (Linux; Android 5.0.1) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/36.0.895.0 Safari/536.1
+Mozilla/5.0 (Linux; Android 5.0.1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/51.0.869.0 Safari/536.2
+Mozilla/5.0 (Linux; Android 5.0.2) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/23.0.842.0 Safari/533.1
+Mozilla/5.0 (Linux; Android 5.0.2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/41.0.861.0 Safari/535.2
+Mozilla/5.0 (Linux; Android 5.0.2) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/26.0.897.0 Safari/536.2
+Mozilla/5.0 (Linux; Android 5.1) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/23.0.818.0 Safari/531.2
+Mozilla/5.0 (Linux; Android 5.1) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/29.0.861.0 Safari/533.1
+Mozilla/5.0 (Linux; Android 6.0) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/41.0.899.0 Safari/536.1
+Mozilla/5.0 (Linux; Android 7.1) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/14.0.876.0 Safari/532.0
+Mozilla/5.0 (Linux; Android 7.1) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/46.0.812.0 Safari/534.2
+Mozilla/5.0 (Linux; Android 7.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/50.0.869.0 Safari/536.0
+Mozilla/5.0 (Linux; Android 7.1.2) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/14.0.867.0 Safari/536.0
+Mozilla/5.0 (Linux; Android 7.1.2) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/30.0.822.0 Safari/536.2
+Mozilla/5.0 (Linux; Android 8.1.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/51.0.837.0 Safari/534.1
+Mozilla/5.0 (Linux; Android 9) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/52.0.874.0 Safari/532.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0 rv:2.0; byn-ER) AppleWebKit/531.39.7 (KHTML, like Gecko) Version/4.0.2 Safari/531.39.7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0 rv:6.0; sa-IN) AppleWebKit/531.10.3 (KHTML, like Gecko) Version/5.0.5 Safari/531.10.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/13.0.829.0 Safari/531.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/52.0.898.0 Safari/534.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/22.0.842.0 Safari/534.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/16.0.827.0 Safari/531.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5 rv:2.0; rw-RW) AppleWebKit/533.13.1 (KHTML, like Gecko) Version/4.0.5 Safari/533.13.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/18.0.848.0 Safari/533.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_6 rv:5.0; ts-ZA) AppleWebKit/531.11.6 (KHTML, like Gecko) Version/4.1 Safari/531.11.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_6; rv:1.9.4.20) Gecko/5184-12-09 16:54:26 Firefox/3.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_7 rv:2.0; ne-NP) AppleWebKit/533.44.6 (KHTML, like Gecko) Version/5.1 Safari/533.44.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_9 rv:4.0; ht-HT) AppleWebKit/531.50.1 (KHTML, like Gecko) Version/4.0.5 Safari/531.50.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_9) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/14.0.827.0 Safari/531.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1 rv:4.0; ku-TR) AppleWebKit/531.13.6 (KHTML, like Gecko) Version/5.0.3 Safari/531.13.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/41.0.813.0 Safari/532.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4; rv:1.9.6.20) Gecko/4388-08-20 11:58:10 Firefox/3.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/55.0.832.0 Safari/534.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6; rv:1.9.3.20) Gecko/3641-02-20 16:07:54 Firefox/3.6.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_9; rv:1.9.6.20) Gecko/9375-10-09 07:18:03 Firefox/3.6.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1 rv:2.0; tig-ER) AppleWebKit/531.38.6 (KHTML, like Gecko) Version/5.0.1 Safari/531.38.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2 rv:4.0; yue-HK) AppleWebKit/531.1.3 (KHTML, like Gecko) Version/5.0.1 Safari/531.1.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2; rv:1.9.3.20) Gecko/3143-03-31 22:27:12 Firefox/3.6.14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4 rv:2.0; be-BY) AppleWebKit/531.18.3 (KHTML, like Gecko) Version/4.0.5 Safari/531.18.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4 rv:3.0; bo-CN) AppleWebKit/532.48.1 (KHTML, like Gecko) Version/5.0.3 Safari/532.48.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/25.0.837.0 Safari/531.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5 rv:6.0; ps-AF) AppleWebKit/532.42.5 (KHTML, like Gecko) Version/5.0 Safari/532.42.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6 rv:4.0; ku-TR) AppleWebKit/531.20.4 (KHTML, like Gecko) Version/5.0.2 Safari/531.20.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6; rv:1.9.4.20) Gecko/8467-03-08 02:54:24 Firefox/15.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6; rv:1.9.5.20) Gecko/9970-01-27 23:22:53 Firefox/3.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_7 rv:6.0; bhb-IN) AppleWebKit/534.42.6 (KHTML, like Gecko) Version/5.1 Safari/534.42.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_7) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/41.0.818.0 Safari/536.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_8; rv:1.9.6.20) Gecko/9447-07-19 20:46:41 Firefox/3.6.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_9) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/19.0.818.0 Safari/535.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_0) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/45.0.821.0 Safari/533.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_1) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/21.0.851.0 Safari/535.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_2 rv:3.0; he-IL) AppleWebKit/534.17.4 (KHTML, like Gecko) Version/4.0.2 Safari/534.17.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/38.0.837.0 Safari/532.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_3 rv:4.0; cmn-TW) AppleWebKit/531.16.5 (KHTML, like Gecko) Version/4.0 Safari/531.16.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_6 rv:2.0; li-BE) AppleWebKit/531.2.3 (KHTML, like Gecko) Version/5.0 Safari/531.2.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_6 rv:5.0; tr-TR) AppleWebKit/532.38.1 (KHTML, like Gecko) Version/5.1 Safari/532.38.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_6; rv:1.9.5.20) Gecko/8849-06-22 04:25:23 Firefox/14.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8 rv:3.0; dz-BT) AppleWebKit/533.46.6 (KHTML, like Gecko) Version/4.1 Safari/533.46.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8 rv:4.0; hak-TW) AppleWebKit/532.32.6 (KHTML, like Gecko) Version/4.0 Safari/532.32.6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_9) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/53.0.850.0 Safari/534.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/19.0.845.0 Safari/536.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_1 rv:5.0; he-IL) AppleWebKit/531.30.3 (KHTML, like Gecko) Version/5.1 Safari/531.30.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_3 rv:3.0; bhb-IN) AppleWebKit/533.42.3 (KHTML, like Gecko) Version/4.0.3 Safari/533.42.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_3 rv:3.0; bhb-IN) AppleWebKit/534.14.3 (KHTML, like Gecko) Version/5.0.2 Safari/534.14.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_4 rv:4.0; mk-MK) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.1 Safari/532.33.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7 rv:6.0; ss-ZA) AppleWebKit/535.20.1 (KHTML, like Gecko) Version/5.0 Safari/535.20.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8 rv:3.0; mi-NZ) AppleWebKit/533.6.4 (KHTML, like Gecko) Version/5.0.4 Safari/533.6.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_9) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/33.0.874.0 Safari/533.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3 rv:4.0; sd-PK) AppleWebKit/532.4.1 (KHTML, like Gecko) Version/4.0 Safari/532.4.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3 rv:6.0; sq-AL) AppleWebKit/532.13.3 (KHTML, like Gecko) Version/4.0.2 Safari/532.13.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_6) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/13.0.817.0 Safari/534.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_8; rv:1.9.4.20) Gecko/5183-09-17 19:43:22 Firefox/11.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_8; rv:1.9.4.20) Gecko/8141-08-29 03:54:29 Firefox/3.6.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_9 rv:6.0; crh-UA) AppleWebKit/532.34.1 (KHTML, like Gecko) Version/4.0.5 Safari/532.34.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0; rv:1.9.5.20) Gecko/8792-08-08 08:29:43 Firefox/3.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/21.0.806.0 Safari/532.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2; rv:1.9.3.20) Gecko/6702-04-16 22:26:12 Firefox/3.6.20
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5 rv:4.0; tcy-IN) AppleWebKit/535.42.2 (KHTML, like Gecko) Version/4.0.1 Safari/535.42.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_6 rv:2.0; br-FR) AppleWebKit/533.1.5 (KHTML, like Gecko) Version/4.1 Safari/533.1.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_6; rv:1.9.5.20) Gecko/3285-12-31 23:49:11 Firefox/3.6.14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_7 rv:2.0; ta-LK) AppleWebKit/533.17.4 (KHTML, like Gecko) Version/5.1 Safari/533.17.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_9) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/41.0.827.0 Safari/533.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_9) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/25.0.856.0 Safari/535.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0 rv:2.0; tcy-IN) AppleWebKit/531.42.4 (KHTML, like Gecko) Version/5.0.3 Safari/531.42.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1 rv:3.0; de-AT) AppleWebKit/534.50.3 (KHTML, like Gecko) Version/4.0.4 Safari/534.50.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/13.0.831.0 Safari/532.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2 rv:5.0; yue-HK) AppleWebKit/535.12.1 (KHTML, like Gecko) Version/5.0 Safari/535.12.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2; rv:1.9.2.20) Gecko/6826-11-22 08:00:56 Firefox/8.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3; rv:1.9.5.20) Gecko/5440-06-28 07:08:12 Firefox/3.6.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3; rv:1.9.6.20) Gecko/6771-04-12 18:17:44 Firefox/3.6.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4; rv:1.9.6.20) Gecko/4585-05-18 14:02:22 Firefox/3.8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_6 rv:3.0; tcy-IN) AppleWebKit/533.14.3 (KHTML, like Gecko) Version/4.0.4 Safari/533.14.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_7) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/34.0.874.0 Safari/533.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_8 rv:4.0; vi-VN) AppleWebKit/531.6.3 (KHTML, like Gecko) Version/4.0.4 Safari/531.6.3
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_0) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/50.0.817.0 Safari/532.2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_0; rv:1.9.5.20) Gecko/6465-05-28 02:55:16 Firefox/3.8
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_2 rv:6.0; ti-ER) AppleWebKit/535.34.5 (KHTML, like Gecko) Version/4.0.3 Safari/535.34.5
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_5 rv:6.0; cv-RU) AppleWebKit/535.40.4 (KHTML, like Gecko) Version/5.0.2 Safari/535.40.4
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_5; rv:1.9.4.20) Gecko/5339-05-08 19:31:01 Firefox/3.8
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_6) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/55.0.832.0 Safari/532.0
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_8 rv:6.0; os-RU) AppleWebKit/533.6.6 (KHTML, like Gecko) Version/5.1 Safari/533.6.6
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_8; rv:1.9.2.20) Gecko/7573-03-03 07:32:51 Firefox/3.6.14
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_9 rv:4.0; cy-GB) AppleWebKit/534.18.6 (KHTML, like Gecko) Version/5.1 Safari/534.18.6
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_1; rv:1.9.4.20) Gecko/5743-12-15 19:06:05 Firefox/3.6.2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_2 rv:3.0; apn-IN) AppleWebKit/533.46.5 (KHTML, like Gecko) Version/4.1 Safari/533.46.5
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_3; rv:1.9.5.20) Gecko/2049-05-25 17:04:30 Firefox/3.6.9
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_4 rv:4.0; oc-FR) AppleWebKit/531.43.2 (KHTML, like Gecko) Version/5.1 Safari/531.43.2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_5 rv:5.0; crh-UA) AppleWebKit/533.38.5 (KHTML, like Gecko) Version/4.1 Safari/533.38.5
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_5) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/43.0.812.0 Safari/532.2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_5) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/56.0.871.0 Safari/534.1
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_7) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/52.0.821.0 Safari/531.0
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_7; rv:1.9.4.20) Gecko/7051-11-04 05:33:48 Firefox/5.0
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_8 rv:2.0; iu-CA) AppleWebKit/534.19.4 (KHTML, like Gecko) Version/5.0.5 Safari/534.19.4
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_8) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/13.0.898.0 Safari/532.2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_8; rv:1.9.5.20) Gecko/3507-03-04 20:57:15 Firefox/3.6.11
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_0; rv:1.9.5.20) Gecko/3511-08-28 02:15:29 Firefox/3.6.3
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_2 rv:5.0; fi-FI) AppleWebKit/534.21.1 (KHTML, like Gecko) Version/4.0.2 Safari/534.21.1
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_2; rv:1.9.5.20) Gecko/6354-08-27 13:39:51 Firefox/3.6.8
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_5 rv:4.0; et-EE) AppleWebKit/535.36.6 (KHTML, like Gecko) Version/4.1 Safari/535.36.6
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_5 rv:6.0; en-PH) AppleWebKit/532.22.5 (KHTML, like Gecko) Version/4.0.1 Safari/532.22.5
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_6 rv:3.0; gv-GB) AppleWebKit/533.22.7 (KHTML, like Gecko) Version/4.0.4 Safari/533.22.7
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_7; rv:1.9.5.20) Gecko/2480-02-29 13:57:52 Firefox/11.0
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_9 rv:5.0; yue-HK) AppleWebKit/535.25.4 (KHTML, like Gecko) Version/5.0 Safari/535.25.4
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_9 rv:6.0; lo-LA) AppleWebKit/533.20.4 (KHTML, like Gecko) Version/4.0 Safari/533.20.4
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_9 rv:6.0; xh-ZA) AppleWebKit/531.24.6 (KHTML, like Gecko) Version/5.1 Safari/531.24.6
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_9) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/41.0.861.0 Safari/535.2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_12_9; rv:1.9.4.20) Gecko/9072-02-18 18:52:33 Firefox/13.0
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_0 rv:5.0; id-ID) AppleWebKit/532.28.5 (KHTML, like Gecko) Version/4.0.1 Safari/532.28.5
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.821.0 Safari/535.2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_3 rv:6.0; kk-KZ) AppleWebKit/533.3.3 (KHTML, like Gecko) Version/5.0.3 Safari/533.3.3
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_4 rv:2.0; so-DJ) AppleWebKit/533.10.2 (KHTML, like Gecko) Version/4.0.5 Safari/533.10.2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_5) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/15.0.851.0 Safari/535.1
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_6 rv:5.0; byn-ER) AppleWebKit/532.12.5 (KHTML, like Gecko) Version/4.1 Safari/532.12.5
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_8) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/63.0.870.0 Safari/531.1
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_1 rv:2.0; mg-MG) AppleWebKit/534.47.3 (KHTML, like Gecko) Version/4.0 Safari/534.47.3
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_1; rv:1.9.3.20) Gecko/2375-10-30 04:11:36 Firefox/11.0
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_2 rv:2.0; nhn-MX) AppleWebKit/532.44.6 (KHTML, like Gecko) Version/5.0 Safari/532.44.6
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_4 rv:6.0; hy-AM) AppleWebKit/535.24.4 (KHTML, like Gecko) Version/5.0.5 Safari/535.24.4
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_5 rv:2.0; he-IL) AppleWebKit/534.18.5 (KHTML, like Gecko) Version/4.0.5 Safari/534.18.5
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_5) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/22.0.865.0 Safari/531.1
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_6) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/26.0.854.0 Safari/532.0
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_6; rv:1.9.2.20) Gecko/5163-03-06 09:14:37 Firefox/3.6.13
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_7 rv:5.0; sat-IN) AppleWebKit/533.23.5 (KHTML, like Gecko) Version/5.0.1 Safari/533.23.5
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_7 rv:5.0; tr-TR) AppleWebKit/531.5.4 (KHTML, like Gecko) Version/5.0 Safari/531.5.4
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_7; rv:1.9.4.20) Gecko/5370-01-25 19:23:55 Firefox/8.0
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_8 rv:5.0; hy-AM) AppleWebKit/533.23.2 (KHTML, like Gecko) Version/5.0.4 Safari/533.23.2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_9) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/41.0.829.0 Safari/533.1
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_0; rv:1.9.3.20) Gecko/3767-12-28 04:20:01 Firefox/3.8
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_1 rv:3.0; wal-ET) AppleWebKit/535.37.6 (KHTML, like Gecko) Version/4.0 Safari/535.37.6
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_2 rv:6.0; lg-UG) AppleWebKit/533.44.6 (KHTML, like Gecko) Version/5.0.4 Safari/533.44.6
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_6 rv:2.0; uk-UA) AppleWebKit/531.30.4 (KHTML, like Gecko) Version/5.0.2 Safari/531.30.4
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_6; rv:1.9.4.20) Gecko/9201-06-02 10:48:21 Firefox/3.6.4
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_8 rv:5.0; apn-IN) AppleWebKit/532.6.2 (KHTML, like Gecko) Version/5.0 Safari/532.6.2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_9 rv:4.0; byn-ER) AppleWebKit/531.37.7 (KHTML, like Gecko) Version/4.0.1 Safari/531.37.7
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_9) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/53.0.857.0 Safari/534.1
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/57.0.870.0 Safari/532.1
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_4 rv:5.0; sid-ET) AppleWebKit/535.12.2 (KHTML, like Gecko) Version/5.0 Safari/535.12.2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_5; rv:1.9.4.20) Gecko/8854-03-13 04:47:51 Firefox/3.8
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_6) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/14.0.844.0 Safari/533.2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_8 rv:2.0; gv-GB) AppleWebKit/531.42.6 (KHTML, like Gecko) Version/5.0.1 Safari/531.42.6
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_1) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/40.0.831.0 Safari/534.0
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_9) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/40.0.888.0 Safari/532.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/28.0.833.0 Safari/532.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_1; rv:1.9.4.20) Gecko/8535-12-21 06:25:33 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_3 rv:4.0; nn-NO) AppleWebKit/532.31.4 (KHTML, like Gecko) Version/4.1 Safari/532.31.4
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_4 rv:5.0; vi-VN) AppleWebKit/535.38.1 (KHTML, like Gecko) Version/4.0 Safari/535.38.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_6) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/16.0.845.0 Safari/533.2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_7 rv:3.0; vi-VN) AppleWebKit/534.30.7 (KHTML, like Gecko) Version/5.0.2 Safari/534.30.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_9 rv:3.0; bs-BA) AppleWebKit/535.26.5 (KHTML, like Gecko) Version/5.0.2 Safari/535.26.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_0 rv:2.0; mk-MK) AppleWebKit/531.27.5 (KHTML, like Gecko) Version/4.0 Safari/531.27.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/52.0.819.0 Safari/536.2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_1 rv:4.0; raj-IN) AppleWebKit/534.38.3 (KHTML, like Gecko) Version/5.1 Safari/534.38.3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_1; rv:1.9.2.20) Gecko/7991-04-28 05:55:57 Firefox/3.6.13
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_2 rv:3.0; ayc-PE) AppleWebKit/533.14.1 (KHTML, like Gecko) Version/5.1 Safari/533.14.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_2 rv:4.0; ml-IN) AppleWebKit/531.41.1 (KHTML, like Gecko) Version/5.0 Safari/531.41.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_3 rv:6.0; es-ES) AppleWebKit/531.24.6 (KHTML, like Gecko) Version/5.0.3 Safari/531.24.6
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_3; rv:1.9.4.20) Gecko/8748-07-22 08:35:20 Firefox/7.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_5 rv:2.0; ln-CD) AppleWebKit/533.25.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.25.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_6; rv:1.9.6.20) Gecko/3758-06-05 13:54:47 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_8; rv:1.9.6.20) Gecko/2584-10-05 16:00:02 Firefox/3.6.12
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_9; rv:1.9.5.20) Gecko/9075-01-14 09:26:05 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_0 rv:6.0; ka-GE) AppleWebKit/533.9.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.9.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_0; rv:1.9.2.20) Gecko/2881-12-02 16:00:49 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_1 rv:4.0; dv-MV) AppleWebKit/535.21.5 (KHTML, like Gecko) Version/5.0 Safari/535.21.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_3; rv:1.9.5.20) Gecko/3316-05-07 20:12:05 Firefox/8.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_7) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/14.0.843.0 Safari/531.2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_7; rv:1.9.4.20) Gecko/8837-12-03 08:13:25 Firefox/7.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_9 rv:3.0; om-ET) AppleWebKit/534.34.7 (KHTML, like Gecko) Version/4.0.3 Safari/534.34.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_9 rv:4.0; de-LI) AppleWebKit/535.46.1 (KHTML, like Gecko) Version/5.1 Safari/535.46.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_0 rv:2.0; os-RU) AppleWebKit/535.37.4 (KHTML, like Gecko) Version/5.1 Safari/535.37.4
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_2) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/24.0.847.0 Safari/531.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3 rv:3.0; li-BE) AppleWebKit/531.29.4 (KHTML, like Gecko) Version/4.1 Safari/531.29.4
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3 rv:3.0; mi-NZ) AppleWebKit/532.16.7 (KHTML, like Gecko) Version/4.0.4 Safari/532.16.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3; rv:1.9.3.20) Gecko/6348-10-10 09:04:09 Firefox/3.6.11
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5 rv:2.0; sa-IN) AppleWebKit/532.21.1 (KHTML, like Gecko) Version/4.0.4 Safari/532.21.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5 rv:4.0; yo-NG) AppleWebKit/535.22.3 (KHTML, like Gecko) Version/4.0 Safari/535.22.3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; rv:1.9.2.20) Gecko/4942-03-11 17:32:40 Firefox/6.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_9 rv:3.0; uk-UA) AppleWebKit/534.45.7 (KHTML, like Gecko) Version/5.1 Safari/534.45.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_9 rv:6.0; hu-HU) AppleWebKit/531.16.5 (KHTML, like Gecko) Version/4.0.1 Safari/531.16.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_0 rv:2.0; mk-MK) AppleWebKit/531.37.3 (KHTML, like Gecko) Version/5.0.5 Safari/531.37.3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2; rv:1.9.2.20) Gecko/2469-06-03 03:01:26 Firefox/5.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3 rv:6.0; cs-CZ) AppleWebKit/535.10.4 (KHTML, like Gecko) Version/5.0.2 Safari/535.10.4
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4 rv:2.0; byn-ER) AppleWebKit/535.16.1 (KHTML, like Gecko) Version/5.0 Safari/535.16.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5; rv:1.9.3.20) Gecko/7996-07-25 16:23:41 Firefox/7.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7 rv:5.0; ber-DZ) AppleWebKit/534.7.1 (KHTML, like Gecko) Version/4.0 Safari/534.7.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7 rv:5.0; bhb-IN) AppleWebKit/535.17.6 (KHTML, like Gecko) Version/4.1 Safari/535.17.6
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/51.0.816.0 Safari/536.2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/59.0.815.0 Safari/536.2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/42.0.889.0 Safari/536.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_1 rv:3.0; hr-HR) AppleWebKit/535.44.1 (KHTML, like Gecko) Version/4.1 Safari/535.44.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_1) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/15.0.826.0 Safari/534.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/36.0.834.0 Safari/532.2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_3 rv:2.0; wae-CH) AppleWebKit/533.27.7 (KHTML, like Gecko) Version/5.0 Safari/533.27.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_3 rv:5.0; vi-VN) AppleWebKit/534.24.7 (KHTML, like Gecko) Version/4.0 Safari/534.24.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_4 rv:4.0; bho-IN) AppleWebKit/532.10.5 (KHTML, like Gecko) Version/5.0 Safari/532.10.5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_4 rv:4.0; gv-GB) AppleWebKit/535.21.6 (KHTML, like Gecko) Version/5.0.2 Safari/535.21.6
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_4 rv:6.0; ti-ER) AppleWebKit/532.46.7 (KHTML, like Gecko) Version/4.0.2 Safari/532.46.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_5; rv:1.9.2.20) Gecko/2337-01-17 15:08:16 Firefox/4.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_5; rv:1.9.3.20) Gecko/4185-06-02 18:21:19 Firefox/6.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_6 rv:5.0; ne-NP) AppleWebKit/531.6.6 (KHTML, like Gecko) Version/5.0.4 Safari/531.6.6
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_6; rv:1.9.6.20) Gecko/8058-01-24 21:11:15 Firefox/6.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_7 rv:3.0; gd-GB) AppleWebKit/532.18.4 (KHTML, like Gecko) Version/4.0 Safari/532.18.4
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_7) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/32.0.844.0 Safari/536.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_9; rv:1.9.4.20) Gecko/7988-12-10 08:47:14 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_2; rv:1.9.3.20) Gecko/8972-02-14 19:49:17 Firefox/15.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_3; rv:1.9.5.20) Gecko/5487-10-21 06:35:48 Firefox/3.6.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_7; rv:1.9.2.20) Gecko/4884-05-23 19:04:24 Firefox/9.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_7; rv:1.9.2.20) Gecko/5581-04-19 01:35:48 Firefox/3.6.6
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_8; rv:1.9.2.20) Gecko/7677-07-20 22:06:27 Firefox/4.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_9 rv:2.0; en-BD) AppleWebKit/534.50.3 (KHTML, like Gecko) Version/5.0.3 Safari/534.50.3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_9) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/46.0.886.0 Safari/533.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_0 rv:3.0; kn-IN) AppleWebKit/532.26.3 (KHTML, like Gecko) Version/5.0.1 Safari/532.26.3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_1 rv:6.0; ig-NG) AppleWebKit/531.30.7 (KHTML, like Gecko) Version/5.0 Safari/531.30.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_1) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/29.0.852.0 Safari/536.2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_4 rv:5.0; aa-ET) AppleWebKit/534.8.6 (KHTML, like Gecko) Version/4.0.5 Safari/534.8.6
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_5 rv:3.0; fy-NL) AppleWebKit/531.14.7 (KHTML, like Gecko) Version/4.0 Safari/531.14.7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_6) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/58.0.847.0 Safari/535.1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_7; rv:1.9.5.20) Gecko/5994-08-19 12:58:04 Firefox/3.6.6
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_8) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/20.0.818.0 Safari/531.2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_9 rv:4.0; sa-IN) AppleWebKit/532.39.2 (KHTML, like Gecko) Version/4.0.2 Safari/532.39.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_0 rv:3.0; om-ET) AppleWebKit/533.46.3 (KHTML, like Gecko) Version/4.1 Safari/533.46.3
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_3) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/13.0.886.0 Safari/535.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_3; rv:1.9.4.20) Gecko/8633-04-30 00:49:17 Firefox/3.6.7
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_3; rv:1.9.5.20) Gecko/3061-05-04 02:17:24 Firefox/4.0
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_5; rv:1.9.2.20) Gecko/3420-08-27 08:49:19 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_7) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/26.0.808.0 Safari/535.0
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_7; rv:1.9.5.20) Gecko/4884-03-16 10:40:54 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_9 rv:5.0; bn-IN) AppleWebKit/531.24.5 (KHTML, like Gecko) Version/4.0.4 Safari/531.24.5
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_2; rv:1.9.6.20) Gecko/6403-01-25 08:21:20 Firefox/12.0
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_4) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/36.0.811.0 Safari/532.0
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_7) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/53.0.856.0 Safari/533.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_7) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/40.0.822.0 Safari/534.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_9 rv:3.0; mr-IN) AppleWebKit/533.45.4 (KHTML, like Gecko) Version/5.1 Safari/533.45.4
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_0 rv:4.0; nr-ZA) AppleWebKit/535.41.4 (KHTML, like Gecko) Version/5.0.4 Safari/535.41.4
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_0 rv:6.0; oc-FR) AppleWebKit/534.26.6 (KHTML, like Gecko) Version/4.0.5 Safari/534.26.6
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/36.0.877.0 Safari/534.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_2 rv:3.0; oc-FR) AppleWebKit/534.17.5 (KHTML, like Gecko) Version/5.0.3 Safari/534.17.5
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_3 rv:3.0; brx-IN) AppleWebKit/534.19.5 (KHTML, like Gecko) Version/5.0.5 Safari/534.19.5
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_3 rv:5.0; hsb-DE) AppleWebKit/531.5.3 (KHTML, like Gecko) Version/5.0.4 Safari/531.5.3
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_3) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/58.0.888.0 Safari/536.1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_3; rv:1.9.4.20) Gecko/3654-07-02 13:32:01 Firefox/4.0
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_4 rv:2.0; ja-JP) AppleWebKit/535.47.3 (KHTML, like Gecko) Version/4.1 Safari/535.47.3
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_4) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/36.0.869.0 Safari/533.0
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_7 rv:2.0; pap-AN) AppleWebKit/535.3.2 (KHTML, like Gecko) Version/5.0.5 Safari/535.3.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_8 rv:6.0; hu-HU) AppleWebKit/532.1.7 (KHTML, like Gecko) Version/4.0.1 Safari/532.1.7
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_8; rv:1.9.5.20) Gecko/9059-06-07 07:56:19 Firefox/12.0
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_1; rv:1.9.6.20) Gecko/9452-10-11 12:40:55 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_3) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/58.0.812.0 Safari/534.1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_5; rv:1.9.5.20) Gecko/7741-12-23 14:27:48 Firefox/11.0
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_6 rv:6.0; ts-ZA) AppleWebKit/533.30.5 (KHTML, like Gecko) Version/5.0 Safari/533.30.5
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/57.0.898.0 Safari/536.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7; rv:1.9.2.20) Gecko/6460-04-03 23:28:19 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_9) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/48.0.823.0 Safari/533.1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_0) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/58.0.893.0 Safari/531.1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_2 rv:5.0; mag-IN) AppleWebKit/532.8.4 (KHTML, like Gecko) Version/4.1 Safari/532.8.4
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_3 rv:2.0; mg-MG) AppleWebKit/531.43.4 (KHTML, like Gecko) Version/5.0 Safari/531.43.4
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_3; rv:1.9.6.20) Gecko/5356-11-09 10:34:47 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_7 rv:4.0; ro-RO) AppleWebKit/535.42.5 (KHTML, like Gecko) Version/5.1 Safari/535.42.5
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_9) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/54.0.874.0 Safari/531.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_6_9) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/61.0.802.0 Safari/532.1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_0 rv:3.0; st-ZA) AppleWebKit/532.42.6 (KHTML, like Gecko) Version/4.1 Safari/532.42.6
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_1) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/50.0.815.0 Safari/533.1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_1; rv:1.9.3.20) Gecko/4094-01-04 13:55:52 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_2 rv:3.0; or-IN) AppleWebKit/532.29.2 (KHTML, like Gecko) Version/4.0 Safari/532.29.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_2; rv:1.9.2.20) Gecko/7748-07-01 21:19:52 Firefox/4.0
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_2; rv:1.9.5.20) Gecko/2691-03-03 14:43:12 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_5) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/26.0.837.0 Safari/536.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_6 rv:5.0; tk-TM) AppleWebKit/535.9.7 (KHTML, like Gecko) Version/4.0.3 Safari/535.9.7
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_8 rv:6.0; eo-US) AppleWebKit/533.24.7 (KHTML, like Gecko) Version/5.0.5 Safari/533.24.7
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_9; rv:1.9.3.20) Gecko/5502-09-02 21:19:00 Firefox/3.6.14
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_1 rv:4.0; ia-FR) AppleWebKit/531.12.7 (KHTML, like Gecko) Version/4.0 Safari/531.12.7
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/29.0.838.0 Safari/535.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_1; rv:1.9.4.20) Gecko/8536-12-31 05:49:48 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_6 rv:3.0; my-MM) AppleWebKit/534.4.1 (KHTML, like Gecko) Version/4.0.4 Safari/534.4.1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_8 rv:2.0; af-ZA) AppleWebKit/531.18.7 (KHTML, like Gecko) Version/5.0.3 Safari/531.18.7
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_2) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/20.0.890.0 Safari/534.0
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_2; rv:1.9.4.20) Gecko/6929-02-16 18:22:39 Firefox/3.6.3
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_3 rv:4.0; fil-PH) AppleWebKit/532.35.4 (KHTML, like Gecko) Version/5.0 Safari/532.35.4
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_3 rv:6.0; wae-CH) AppleWebKit/531.6.7 (KHTML, like Gecko) Version/4.0 Safari/531.6.7
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_3; rv:1.9.2.20) Gecko/4262-07-15 17:29:29 Firefox/6.0
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_4 rv:5.0; mt-MT) AppleWebKit/534.4.2 (KHTML, like Gecko) Version/5.0.4 Safari/534.4.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_4; rv:1.9.5.20) Gecko/6105-02-24 08:36:54 Firefox/3.8
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_6 rv:3.0; ml-IN) AppleWebKit/531.13.2 (KHTML, like Gecko) Version/5.0 Safari/531.13.2
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_6 rv:4.0; pl-PL) AppleWebKit/533.45.3 (KHTML, like Gecko) Version/4.0.2 Safari/533.45.3
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_6; rv:1.9.6.20) Gecko/6723-02-19 21:44:09 Firefox/3.6.11
+Mozilla/5.0 (Windows 95) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/14.0.839.0 Safari/531.1
+Mozilla/5.0 (Windows 95) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/18.0.849.0 Safari/531.1
+Mozilla/5.0 (Windows 95) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/53.0.819.0 Safari/533.2
+Mozilla/5.0 (Windows 95) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/45.0.813.0 Safari/535.1
+Mozilla/5.0 (Windows 95) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/22.0.804.0 Safari/536.0
+Mozilla/5.0 (Windows 95) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/30.0.851.0 Safari/536.0
+Mozilla/5.0 (Windows 95) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/35.0.855.0 Safari/536.0
+Mozilla/5.0 (Windows 95; cmn-TW; rv:1.9.1.20) Gecko/6566-10-24 04:00:48 Firefox/3.8
+Mozilla/5.0 (Windows 95; et-EE; rv:1.9.1.20) Gecko/4184-12-10 04:44:23 Firefox/4.0
+Mozilla/5.0 (Windows 95; ff-SN; rv:1.9.0.20) Gecko/6340-06-02 03:59:22 Firefox/3.6.16
+Mozilla/5.0 (Windows 95; id-ID; rv:1.9.0.20) Gecko/2914-04-23 22:21:32 Firefox/4.0
+Mozilla/5.0 (Windows 95; ig-NG; rv:1.9.1.20) Gecko/4815-07-14 18:03:28 Firefox/3.6.14
+Mozilla/5.0 (Windows 95; kl-GL; rv:1.9.1.20) Gecko/4155-01-10 17:10:50 Firefox/3.6.7
+Mozilla/5.0 (Windows 95; sc-IT; rv:1.9.2.20) Gecko/3662-10-22 02:25:42 Firefox/3.6.15
+Mozilla/5.0 (Windows 98) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/21.0.830.0 Safari/531.0
+Mozilla/5.0 (Windows 98) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/20.0.834.0 Safari/531.2
+Mozilla/5.0 (Windows 98) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/63.0.818.0 Safari/533.2
+Mozilla/5.0 (Windows 98) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/23.0.894.0 Safari/534.1
+Mozilla/5.0 (Windows 98) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/14.0.848.0 Safari/534.2
+Mozilla/5.0 (Windows 98) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/14.0.831.0 Safari/536.0
+Mozilla/5.0 (Windows 98) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/14.0.887.0 Safari/536.1
+Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/32.0.836.0 Safari/531.1
+Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/23.0.856.0 Safari/532.0
+Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/54.0.857.0 Safari/534.0
+Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.0.850.0 Safari/535.2
+Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/35.0.845.0 Safari/535.2
+Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/50.0.817.0 Safari/535.2
+Mozilla/5.0 (Windows 98; Win 9x 4.90; an-ES; rv:1.9.0.20) Gecko/7315-10-04 10:01:45 Firefox/3.8
+Mozilla/5.0 (Windows 98; Win 9x 4.90; he-IL; rv:1.9.2.20) Gecko/5671-03-07 23:26:45 Firefox/3.8
+Mozilla/5.0 (Windows 98; Win 9x 4.90; kn-IN; rv:1.9.0.20) Gecko/5464-11-22 13:08:26 Firefox/13.0
+Mozilla/5.0 (Windows 98; Win 9x 4.90; ug-CN; rv:1.9.0.20) Gecko/8591-12-07 15:10:20 Firefox/3.8
+Mozilla/5.0 (Windows 98; Win 9x 4.90; unm-US; rv:1.9.0.20) Gecko/8994-09-19 09:58:42 Firefox/3.8
+Mozilla/5.0 (Windows 98; ce-RU; rv:1.9.0.20) Gecko/7353-07-18 14:53:12 Firefox/3.6.20
+Mozilla/5.0 (Windows 98; gez-ER; rv:1.9.0.20) Gecko/5872-12-02 12:05:48 Firefox/10.0
+Mozilla/5.0 (Windows 98; ha-NG; rv:1.9.2.20) Gecko/2989-08-31 01:15:54 Firefox/3.8
+Mozilla/5.0 (Windows 98; or-IN; rv:1.9.1.20) Gecko/3068-01-09 22:19:30 Firefox/3.8
+Mozilla/5.0 (Windows 98; ps-AF; rv:1.9.2.20) Gecko/7974-10-15 08:56:36 Firefox/3.6.3
+Mozilla/5.0 (Windows 98; ts-ZA; rv:1.9.2.20) Gecko/7499-03-16 06:26:21 Firefox/3.8
+Mozilla/5.0 (Windows CE) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/63.0.811.0 Safari/531.0
+Mozilla/5.0 (Windows CE) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/24.0.855.0 Safari/531.2
+Mozilla/5.0 (Windows CE) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/15.0.805.0 Safari/533.0
+Mozilla/5.0 (Windows CE) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/16.0.811.0 Safari/533.2
+Mozilla/5.0 (Windows CE) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/32.0.835.0 Safari/535.0
+Mozilla/5.0 (Windows CE) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/33.0.845.0 Safari/536.0
+Mozilla/5.0 (Windows CE) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/62.0.883.0 Safari/536.1
+Mozilla/5.0 (Windows CE; ber-DZ; rv:1.9.0.20) Gecko/2027-02-11 03:22:51 Firefox/3.6.14
+Mozilla/5.0 (Windows CE; dz-BT; rv:1.9.2.20) Gecko/6484-04-10 04:22:21 Firefox/3.8
+Mozilla/5.0 (Windows CE; wa-BE; rv:1.9.0.20) Gecko/7770-09-11 06:12:59 Firefox/3.8
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/26.0.892.0 Safari/531.2
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/50.0.894.0 Safari/532.0
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/18.0.842.0 Safari/532.2
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/47.0.839.0 Safari/533.1
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/43.0.811.0 Safari/534.0
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/43.0.862.0 Safari/534.2
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/20.0.823.0 Safari/535.1
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/34.0.856.0 Safari/536.1
+Mozilla/5.0 (Windows NT 10.0; ja-JP; rv:1.9.2.20) Gecko/4808-01-30 00:01:02 Firefox/3.6.16
+Mozilla/5.0 (Windows NT 10.0; si-LK; rv:1.9.0.20) Gecko/6102-08-26 15:40:48 Firefox/3.8
+Mozilla/5.0 (Windows NT 10.0; so-DJ; rv:1.9.1.20) Gecko/6008-10-11 07:53:23 Firefox/3.6.13
+Mozilla/5.0 (Windows NT 11.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/40.0.877.0 Safari/531.2
+Mozilla/5.0 (Windows NT 11.0) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/41.0.850.0 Safari/532.2
+Mozilla/5.0 (Windows NT 11.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/48.0.859.0 Safari/534.0
+Mozilla/5.0 (Windows NT 11.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/14.0.858.0 Safari/534.1
+Mozilla/5.0 (Windows NT 11.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/40.0.808.0 Safari/534.1
+Mozilla/5.0 (Windows NT 11.0; en-BD; rv:1.9.0.20) Gecko/6108-06-26 06:15:53 Firefox/5.0
+Mozilla/5.0 (Windows NT 11.0; ks-IN; rv:1.9.0.20) Gecko/4729-06-29 03:12:18 Firefox/3.8
+Mozilla/5.0 (Windows NT 11.0; mhr-RU; rv:1.9.1.20) Gecko/9648-01-31 20:48:58 Firefox/3.6.6
+Mozilla/5.0 (Windows NT 11.0; mi-NZ; rv:1.9.2.20) Gecko/8224-10-18 11:56:39 Firefox/3.8
+Mozilla/5.0 (Windows NT 11.0; sl-SI; rv:1.9.1.20) Gecko/8233-01-21 11:17:03 Firefox/9.0
+Mozilla/5.0 (Windows NT 4.0) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/42.0.864.0 Safari/531.0
+Mozilla/5.0 (Windows NT 4.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/57.0.893.0 Safari/531.2
+Mozilla/5.0 (Windows NT 4.0) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/47.0.861.0 Safari/532.2
+Mozilla/5.0 (Windows NT 4.0) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/33.0.893.0 Safari/533.2
+Mozilla/5.0 (Windows NT 4.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/22.0.817.0 Safari/534.0
+Mozilla/5.0 (Windows NT 4.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/31.0.870.0 Safari/534.0
+Mozilla/5.0 (Windows NT 4.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/61.0.846.0 Safari/534.0
+Mozilla/5.0 (Windows NT 4.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/22.0.877.0 Safari/534.1
+Mozilla/5.0 (Windows NT 4.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/62.0.804.0 Safari/534.1
+Mozilla/5.0 (Windows NT 4.0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/61.0.836.0 Safari/536.2
+Mozilla/5.0 (Windows NT 4.0; ak-GH; rv:1.9.1.20) Gecko/6340-06-28 15:54:22 Firefox/3.8
+Mozilla/5.0 (Windows NT 4.0; am-ET; rv:1.9.0.20) Gecko/4158-08-13 06:45:48 Firefox/3.6.14
+Mozilla/5.0 (Windows NT 4.0; ca-IT; rv:1.9.0.20) Gecko/7414-06-13 22:42:24 Firefox/11.0
+Mozilla/5.0 (Windows NT 4.0; en-DK; rv:1.9.2.20) Gecko/8022-04-02 22:47:51 Firefox/3.6.6
+Mozilla/5.0 (Windows NT 4.0; pt-BR; rv:1.9.1.20) Gecko/8137-02-22 12:45:53 Firefox/3.8
+Mozilla/5.0 (Windows NT 4.0; sl-SI; rv:1.9.2.20) Gecko/5187-07-27 20:58:02 Firefox/5.0
+Mozilla/5.0 (Windows NT 4.0; ve-ZA; rv:1.9.1.20) Gecko/7445-04-20 18:08:44 Firefox/3.8
+Mozilla/5.0 (Windows NT 4.0; wo-SN; rv:1.9.1.20) Gecko/4054-04-01 20:21:07 Firefox/3.6.7
+Mozilla/5.0 (Windows NT 5.0) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/56.0.807.0 Safari/533.0
+Mozilla/5.0 (Windows NT 5.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/34.0.803.0 Safari/534.2
+Mozilla/5.0 (Windows NT 5.0) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/57.0.810.0 Safari/534.2
+Mozilla/5.0 (Windows NT 5.0) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/52.0.860.0 Safari/535.0
+Mozilla/5.0 (Windows NT 5.01) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/29.0.800.0 Safari/532.0
+Mozilla/5.0 (Windows NT 5.01) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/37.0.859.0 Safari/532.1
+Mozilla/5.0 (Windows NT 5.01) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/45.0.828.0 Safari/532.2
+Mozilla/5.0 (Windows NT 5.01) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/17.0.894.0 Safari/533.0
+Mozilla/5.0 (Windows NT 5.01) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/14.0.872.0 Safari/534.2
+Mozilla/5.0 (Windows NT 5.01) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/32.0.837.0 Safari/534.2
+Mozilla/5.0 (Windows NT 5.01; ayc-PE; rv:1.9.2.20) Gecko/8295-07-05 20:21:23 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.01; kw-GB; rv:1.9.1.20) Gecko/8192-07-31 08:29:33 Firefox/3.6.4
+Mozilla/5.0 (Windows NT 5.0; be-BY; rv:1.9.0.20) Gecko/2642-01-25 16:56:07 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.0; gd-GB; rv:1.9.2.20) Gecko/7749-11-01 05:11:17 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.0; ig-NG; rv:1.9.2.20) Gecko/5544-03-09 13:00:42 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.0; kk-KZ; rv:1.9.0.20) Gecko/7087-08-24 07:17:16 Firefox/14.0
+Mozilla/5.0 (Windows NT 5.0; ku-TR; rv:1.9.0.20) Gecko/5363-12-31 23:24:08 Firefox/11.0
+Mozilla/5.0 (Windows NT 5.0; lzh-TW; rv:1.9.0.20) Gecko/3430-01-07 21:58:34 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.0; om-ET; rv:1.9.0.20) Gecko/3738-11-07 08:52:47 Firefox/3.6.2
+Mozilla/5.0 (Windows NT 5.0; sc-IT; rv:1.9.2.20) Gecko/3741-05-12 10:06:19 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.0; unm-US; rv:1.9.0.20) Gecko/7587-09-14 22:17:57 Firefox/3.6.1
+Mozilla/5.0 (Windows NT 5.0; yo-NG; rv:1.9.0.20) Gecko/6523-06-07 10:51:22 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/18.0.896.0 Safari/531.0
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/48.0.855.0 Safari/531.0
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/38.0.820.0 Safari/532.0
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/40.0.821.0 Safari/532.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/29.0.805.0 Safari/533.0
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/31.0.823.0 Safari/534.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/32.0.890.0 Safari/534.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/58.0.890.0 Safari/535.0
+Mozilla/5.0 (Windows NT 5.1; dv-MV; rv:1.9.2.20) Gecko/2826-10-26 04:23:04 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.1; ja-JP; rv:1.9.0.20) Gecko/7000-10-02 20:12:17 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.1; kw-GB; rv:1.9.0.20) Gecko/6410-02-16 04:23:48 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/15.0.890.0 Safari/531.0
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/20.0.851.0 Safari/531.1
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/55.0.835.0 Safari/531.2
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/25.0.870.0 Safari/532.1
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/18.0.813.0 Safari/532.2
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/44.0.832.0 Safari/534.1
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/22.0.883.0 Safari/534.2
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/57.0.878.0 Safari/534.2
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/23.0.870.0 Safari/535.1
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/17.0.887.0 Safari/535.2
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/36.0.851.0 Safari/536.1
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/26.0.849.0 Safari/536.2
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/50.0.897.0 Safari/536.2
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/51.0.843.0 Safari/536.2
+Mozilla/5.0 (Windows NT 5.2; bhb-IN; rv:1.9.1.20) Gecko/3441-08-23 16:22:04 Firefox/10.0
+Mozilla/5.0 (Windows NT 5.2; gd-GB; rv:1.9.1.20) Gecko/2242-10-26 08:30:51 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.2; gd-GB; rv:1.9.2.20) Gecko/9174-10-27 09:54:58 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.2; hne-IN; rv:1.9.0.20) Gecko/5749-10-28 08:52:15 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.2; kk-KZ; rv:1.9.0.20) Gecko/8001-09-25 20:29:15 Firefox/3.6.10
+Mozilla/5.0 (Windows NT 5.2; lo-LA; rv:1.9.0.20) Gecko/9910-10-31 15:22:24 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.2; mag-IN; rv:1.9.1.20) Gecko/3747-01-26 18:08:06 Firefox/3.8
+Mozilla/5.0 (Windows NT 5.2; sr-ME; rv:1.9.2.20) Gecko/3482-01-18 19:37:46 Firefox/3.8
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/33.0.831.0 Safari/532.1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/55.0.811.0 Safari/532.1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/61.0.847.0 Safari/532.1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/34.0.865.0 Safari/534.0
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/14.0.847.0 Safari/535.0
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/56.0.883.0 Safari/536.0
+Mozilla/5.0 (Windows NT 6.0; fa-IR; rv:1.9.2.20) Gecko/5564-01-10 13:30:36 Firefox/3.6.14
+Mozilla/5.0 (Windows NT 6.0; hu-HU; rv:1.9.1.20) Gecko/4098-07-02 15:22:41 Firefox/3.6.20
+Mozilla/5.0 (Windows NT 6.0; kok-IN; rv:1.9.1.20) Gecko/3059-01-16 12:40:26 Firefox/10.0
+Mozilla/5.0 (Windows NT 6.0; nan-TW; rv:1.9.1.20) Gecko/7559-06-05 16:10:38 Firefox/15.0
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/39.0.891.0 Safari/531.0
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/54.0.862.0 Safari/534.0
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/37.0.884.0 Safari/535.0
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/45.0.861.0 Safari/536.1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/53.0.873.0 Safari/536.1
+Mozilla/5.0 (Windows NT 6.1; el-CY; rv:1.9.2.20) Gecko/3444-02-02 02:05:28 Firefox/3.6.10
+Mozilla/5.0 (Windows NT 6.1; gl-ES; rv:1.9.0.20) Gecko/5076-09-27 09:16:07 Firefox/3.8
+Mozilla/5.0 (Windows NT 6.1; gv-GB; rv:1.9.1.20) Gecko/8254-02-01 01:12:08 Firefox/3.8
+Mozilla/5.0 (Windows NT 6.1; kl-GL; rv:1.9.2.20) Gecko/9105-01-26 05:23:16 Firefox/3.6.10
+Mozilla/5.0 (Windows NT 6.1; ss-ZA; rv:1.9.0.20) Gecko/3599-05-29 21:41:38 Firefox/14.0
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/59.0.854.0 Safari/532.1
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/33.0.899.0 Safari/536.1
+Mozilla/5.0 (Windows NT 6.2; mt-MT; rv:1.9.2.20) Gecko/9572-01-19 23:39:27 Firefox/3.8
+Mozilla/5.0 (Windows NT 6.2; sk-SK; rv:1.9.2.20) Gecko/5379-06-29 03:52:14 Firefox/3.8
+Mozilla/5.0 (Windows NT 6.2; st-ZA; rv:1.9.0.20) Gecko/2595-10-11 18:06:39 Firefox/6.0
+Mozilla/5.0 (Windows NT 6.2; sw-TZ; rv:1.9.2.20) Gecko/6909-06-06 02:01:52 Firefox/3.8
+Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/531.5.3 (KHTML, like Gecko) Version/5.0.5 Safari/531.5.3
+Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/532.12.2 (KHTML, like Gecko) Version/4.1 Safari/532.12.2
+Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/532.24.5 (KHTML, like Gecko) Version/5.0 Safari/532.24.5
+Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/532.37.5 (KHTML, like Gecko) Version/5.1 Safari/532.37.5
+Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/532.7.3 (KHTML, like Gecko) Version/4.0.3 Safari/532.7.3
+Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/533.46.1 (KHTML, like Gecko) Version/4.0 Safari/533.46.1
+Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/533.46.3 (KHTML, like Gecko) Version/5.1 Safari/533.46.3
+Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/533.7.5 (KHTML, like Gecko) Version/4.0.1 Safari/533.7.5
+Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/534.4.1 (KHTML, like Gecko) Version/5.0.4 Safari/534.4.1
+Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/535.3.2 (KHTML, like Gecko) Version/5.1 Safari/535.3.2
+Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/535.35.4 (KHTML, like Gecko) Version/4.0.3 Safari/535.35.4
+Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/531.3.2 (KHTML, like Gecko) Version/5.0 Safari/531.3.2
+Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/531.31.1 (KHTML, like Gecko) Version/4.0.1 Safari/531.31.1
+Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/532.41.7 (KHTML, like Gecko) Version/5.1 Safari/532.41.7
+Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/534.41.5 (KHTML, like Gecko) Version/5.0.1 Safari/534.41.5
+Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/532.49.6 (KHTML, like Gecko) Version/5.1 Safari/532.49.6
+Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/533.26.2 (KHTML, like Gecko) Version/5.0.5 Safari/533.26.2
+Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/533.7.7 (KHTML, like Gecko) Version/4.0.2 Safari/533.7.7
+Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.14.6 (KHTML, like Gecko) Version/5.1 Safari/534.14.6
+Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.33.7 (KHTML, like Gecko) Version/4.0.1 Safari/534.33.7
+Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/535.39.2 (KHTML, like Gecko) Version/5.0 Safari/535.39.2
+Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/535.9.3 (KHTML, like Gecko) Version/5.0.3 Safari/535.9.3
+Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/531.11.3 (KHTML, like Gecko) Version/4.0 Safari/531.11.3
+Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/531.6.6 (KHTML, like Gecko) Version/4.1 Safari/531.6.6
+Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/532.16.2 (KHTML, like Gecko) Version/4.0 Safari/532.16.2
+Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/532.37.5 (KHTML, like Gecko) Version/5.1 Safari/532.37.5
+Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.28.7 (KHTML, like Gecko) Version/4.0 Safari/533.28.7
+Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.32.5 (KHTML, like Gecko) Version/5.0.2 Safari/533.32.5
+Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.35.1 (KHTML, like Gecko) Version/4.0.3 Safari/533.35.1
+Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/533.44.1 (KHTML, like Gecko) Version/4.0.5 Safari/533.44.1
+Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/534.18.1 (KHTML, like Gecko) Version/5.0.3 Safari/534.18.1
+Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/534.32.1 (KHTML, like Gecko) Version/4.0.1 Safari/534.32.1
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/531.47.4 (KHTML, like Gecko) Version/4.0 Safari/531.47.4
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/531.49.5 (KHTML, like Gecko) Version/4.0.3 Safari/531.49.5
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/531.6.4 (KHTML, like Gecko) Version/4.1 Safari/531.6.4
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/532.1.3 (KHTML, like Gecko) Version/4.0.1 Safari/532.1.3
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/532.13.3 (KHTML, like Gecko) Version/5.0.3 Safari/532.13.3
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/532.39.3 (KHTML, like Gecko) Version/4.0 Safari/532.39.3
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.15.7 (KHTML, like Gecko) Version/5.0.3 Safari/533.15.7
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.17.3 (KHTML, like Gecko) Version/5.0.3 Safari/533.17.3
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.17.3 (KHTML, like Gecko) Version/5.0.4 Safari/533.17.3
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.31.7 (KHTML, like Gecko) Version/4.1 Safari/533.31.7
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/534.10.6 (KHTML, like Gecko) Version/5.0.5 Safari/534.10.6
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/534.14.5 (KHTML, like Gecko) Version/5.0 Safari/534.14.5
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/534.3.4 (KHTML, like Gecko) Version/5.1 Safari/534.3.4
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/534.6.7 (KHTML, like Gecko) Version/5.0.2 Safari/534.6.7
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/535.1.7 (KHTML, like Gecko) Version/5.1 Safari/535.1.7
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/535.49.3 (KHTML, like Gecko) Version/4.1 Safari/535.49.3
+Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/535.8.5 (KHTML, like Gecko) Version/4.0.2 Safari/535.8.5
+Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/531.12.2 (KHTML, like Gecko) Version/4.0.5 Safari/531.12.2
+Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/531.29.7 (KHTML, like Gecko) Version/5.0.5 Safari/531.29.7
+Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/532.3.7 (KHTML, like Gecko) Version/4.1 Safari/532.3.7
+Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/533.11.2 (KHTML, like Gecko) Version/4.0 Safari/533.11.2
+Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/533.17.5 (KHTML, like Gecko) Version/5.0.2 Safari/533.17.5
+Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/533.19.5 (KHTML, like Gecko) Version/4.1 Safari/533.19.5
+Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/533.31.4 (KHTML, like Gecko) Version/5.0 Safari/533.31.4
+Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/534.34.1 (KHTML, like Gecko) Version/4.0 Safari/534.34.1
+Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/535.17.7 (KHTML, like Gecko) Version/4.0.1 Safari/535.17.7
+Mozilla/5.0 (Windows; U; Windows NT 11.0) AppleWebKit/535.25.6 (KHTML, like Gecko) Version/5.1 Safari/535.25.6
+Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/531.26.7 (KHTML, like Gecko) Version/4.0.1 Safari/531.26.7
+Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/532.17.7 (KHTML, like Gecko) Version/5.0 Safari/532.17.7
+Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/532.20.7 (KHTML, like Gecko) Version/4.0.5 Safari/532.20.7
+Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/532.39.3 (KHTML, like Gecko) Version/4.0.2 Safari/532.39.3
+Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/532.42.4 (KHTML, like Gecko) Version/4.0 Safari/532.42.4
+Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/533.14.2 (KHTML, like Gecko) Version/4.1 Safari/533.14.2
+Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/533.23.2 (KHTML, like Gecko) Version/4.1 Safari/533.23.2
+Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/534.38.2 (KHTML, like Gecko) Version/4.1 Safari/534.38.2
+Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/534.45.4 (KHTML, like Gecko) Version/4.1 Safari/534.45.4
+Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/531.12.1 (KHTML, like Gecko) Version/4.1 Safari/531.12.1
+Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/532.16.4 (KHTML, like Gecko) Version/5.1 Safari/532.16.4
+Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/532.24.2 (KHTML, like Gecko) Version/4.0 Safari/532.24.2
+Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/532.44.6 (KHTML, like Gecko) Version/4.0.2 Safari/532.44.6
+Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/532.5.1 (KHTML, like Gecko) Version/5.1 Safari/532.5.1
+Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/533.10.1 (KHTML, like Gecko) Version/5.0 Safari/533.10.1
+Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/533.10.3 (KHTML, like Gecko) Version/5.0.1 Safari/533.10.3
+Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/534.46.7 (KHTML, like Gecko) Version/5.0.1 Safari/534.46.7
+Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/535.15.4 (KHTML, like Gecko) Version/5.0 Safari/535.15.4
+Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/535.35.1 (KHTML, like Gecko) Version/4.0.2 Safari/535.35.1
+Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/531.16.7 (KHTML, like Gecko) Version/4.0.4 Safari/531.16.7
+Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/531.36.5 (KHTML, like Gecko) Version/5.0.2 Safari/531.36.5
+Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/531.4.1 (KHTML, like Gecko) Version/4.0.4 Safari/531.4.1
+Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/531.41.7 (KHTML, like Gecko) Version/4.0 Safari/531.41.7
+Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/532.33.1 (KHTML, like Gecko) Version/4.1 Safari/532.33.1
+Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/533.29.5 (KHTML, like Gecko) Version/5.1 Safari/533.29.5
+Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/533.30.3 (KHTML, like Gecko) Version/4.1 Safari/533.30.3
+Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/534.20.1 (KHTML, like Gecko) Version/4.0.3 Safari/534.20.1
+Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/534.43.1 (KHTML, like Gecko) Version/4.0.2 Safari/534.43.1
+Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/535.33.3 (KHTML, like Gecko) Version/4.0.4 Safari/535.33.3
+Mozilla/5.0 (Windows; U; Windows NT 5.01) AppleWebKit/535.36.5 (KHTML, like Gecko) Version/5.0 Safari/535.36.5
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.23.2 (KHTML, like Gecko) Version/5.0.1 Safari/531.23.2
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.40.5 (KHTML, like Gecko) Version/4.0 Safari/531.40.5
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.48.3 (KHTML, like Gecko) Version/5.0 Safari/531.48.3
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.6.3 (KHTML, like Gecko) Version/5.0 Safari/531.6.3
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/532.20.2 (KHTML, like Gecko) Version/5.1 Safari/532.20.2
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/532.47.5 (KHTML, like Gecko) Version/4.0.5 Safari/532.47.5
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/533.12.4 (KHTML, like Gecko) Version/4.0.4 Safari/533.12.4
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/533.13.1 (KHTML, like Gecko) Version/4.0.2 Safari/533.13.1
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/533.36.5 (KHTML, like Gecko) Version/5.0.1 Safari/533.36.5
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/533.6.1 (KHTML, like Gecko) Version/5.0.4 Safari/533.6.1
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/534.25.5 (KHTML, like Gecko) Version/5.0.4 Safari/534.25.5
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/534.9.6 (KHTML, like Gecko) Version/4.0.3 Safari/534.9.6
+Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/531.39.6 (KHTML, like Gecko) Version/4.0 Safari/531.39.6
+Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.50.2 (KHTML, like Gecko) Version/5.0 Safari/532.50.2
+Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/533.1.2 (KHTML, like Gecko) Version/5.0.3 Safari/533.1.2
+Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/533.38.4 (KHTML, like Gecko) Version/4.1 Safari/533.38.4
+Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/534.17.5 (KHTML, like Gecko) Version/5.1 Safari/534.17.5
+Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/534.21.7 (KHTML, like Gecko) Version/4.0 Safari/534.21.7
+Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.10.6 (KHTML, like Gecko) Version/4.0.5 Safari/535.10.6
+Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.12.2 (KHTML, like Gecko) Version/4.0.3 Safari/535.12.2
+Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.43.2 (KHTML, like Gecko) Version/4.0 Safari/535.43.2
+Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/535.8.5 (KHTML, like Gecko) Version/4.0 Safari/535.8.5
+Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/531.21.2 (KHTML, like Gecko) Version/4.0.5 Safari/531.21.2
+Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/532.12.6 (KHTML, like Gecko) Version/5.0 Safari/532.12.6
+Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/532.3.3 (KHTML, like Gecko) Version/4.1 Safari/532.3.3
+Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/533.21.6 (KHTML, like Gecko) Version/4.0.2 Safari/533.21.6
+Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/533.49.4 (KHTML, like Gecko) Version/5.0 Safari/533.49.4
+Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/534.35.2 (KHTML, like Gecko) Version/5.0 Safari/534.35.2
+Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/534.43.6 (KHTML, like Gecko) Version/4.1 Safari/534.43.6
+Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/534.44.5 (KHTML, like Gecko) Version/4.1 Safari/534.44.5
+Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/535.36.4 (KHTML, like Gecko) Version/4.0 Safari/535.36.4
+Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/535.41.5 (KHTML, like Gecko) Version/4.1 Safari/535.41.5
+Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.11.3 (KHTML, like Gecko) Version/5.0.4 Safari/532.11.3
+Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.26.7 (KHTML, like Gecko) Version/5.0 Safari/532.26.7
+Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.34.6 (KHTML, like Gecko) Version/5.0 Safari/532.34.6
+Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/533.47.2 (KHTML, like Gecko) Version/5.1 Safari/533.47.2
+Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/533.49.1 (KHTML, like Gecko) Version/4.1 Safari/533.49.1
+Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/534.12.4 (KHTML, like Gecko) Version/4.0.3 Safari/534.12.4
+Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/534.49.4 (KHTML, like Gecko) Version/4.0.2 Safari/534.49.4
+Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/535.6.4 (KHTML, like Gecko) Version/5.1 Safari/535.6.4
+Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/531.14.6 (KHTML, like Gecko) Version/5.0 Safari/531.14.6
+Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/531.9.3 (KHTML, like Gecko) Version/4.0.3 Safari/531.9.3
+Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/532.16.1 (KHTML, like Gecko) Version/5.0.3 Safari/532.16.1
+Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/534.29.2 (KHTML, like Gecko) Version/5.0 Safari/534.29.2
+Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/535.25.1 (KHTML, like Gecko) Version/5.0.2 Safari/535.25.1
+Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/535.45.1 (KHTML, like Gecko) Version/5.0 Safari/535.45.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/49.0.829.0 Safari/531.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/58.0.863.0 Safari/531.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/13.0.855.0 Safari/531.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/27.0.889.0 Safari/531.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/46.0.858.0 Safari/531.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/57.0.824.0 Safari/531.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/28.0.880.0 Safari/531.2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/55.0.817.0 Safari/531.2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/60.0.899.0 Safari/531.2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/29.0.884.0 Safari/532.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/41.0.863.0 Safari/532.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/55.0.852.0 Safari/532.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/62.0.868.0 Safari/532.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/59.0.812.0 Safari/532.2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/59.0.853.0 Safari/533.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/63.0.807.0 Safari/533.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/37.0.830.0 Safari/533.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/43.0.824.0 Safari/533.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/43.0.871.0 Safari/533.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/33.0.842.0 Safari/533.2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/23.0.866.0 Safari/534.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/51.0.818.0 Safari/534.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/21.0.898.0 Safari/534.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/23.0.877.0 Safari/534.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/27.0.863.0 Safari/534.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/31.0.835.0 Safari/534.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/32.0.818.0 Safari/534.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/36.0.832.0 Safari/534.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/47.0.830.0 Safari/535.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/48.0.841.0 Safari/535.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/52.0.837.0 Safari/535.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/16.0.846.0 Safari/535.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/54.0.857.0 Safari/535.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.0.879.0 Safari/535.2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/45.0.828.0 Safari/535.2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/39.0.872.0 Safari/536.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/43.0.861.0 Safari/536.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/14.0.847.0 Safari/536.2
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/2369-07-03 00:56:45 Firefox/3.6.17
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/3179-08-24 04:37:10 Firefox/3.6.9
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/3212-12-14 14:01:53 Firefox/3.8
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/3464-03-22 19:06:30 Firefox/3.8
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/3616-08-21 00:01:09 Firefox/3.8
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/4861-11-06 09:35:17 Firefox/14.0
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/5485-12-05 16:27:42 Firefox/3.6.2
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/8019-06-16 23:32:59 Firefox/5.0
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/9077-04-24 21:27:10 Firefox/14.0
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/9361-12-23 13:22:12 Firefox/3.6.19
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/9560-10-06 07:38:50 Firefox/5.0
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/9692-11-27 05:37:33 Firefox/3.8
+Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/9832-11-18 15:11:17 Firefox/3.6.6
+Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/6014-07-19 19:22:16 Firefox/3.6.6
+Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/6350-05-13 06:11:01 Firefox/3.6.10
+Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/7794-11-05 14:34:26 Firefox/3.6.19
+Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/8477-01-07 14:12:36 Firefox/3.6.18
+Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/9114-10-10 16:20:27 Firefox/5.0
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2012-08-09 19:31:44 Firefox/3.6.12
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2051-04-14 23:04:31 Firefox/3.6.1
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2526-01-08 17:22:53 Firefox/3.6.18
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/2632-01-14 23:26:41 Firefox/15.0
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/4103-02-26 04:05:47 Firefox/3.6.4
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/4998-07-23 14:12:28 Firefox/3.8
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/5831-04-18 13:47:18 Firefox/4.0
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/6960-07-30 14:32:40 Firefox/3.6.12
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/7643-10-27 19:22:20 Firefox/3.8
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/7826-11-18 06:43:44 Firefox/5.0
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/8222-09-01 11:25:23 Firefox/8.0
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/9516-12-13 07:09:23 Firefox/14.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/16.0.867.0 Safari/531.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/34.0.833.0 Safari/531.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/41.0.833.0 Safari/531.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/36.0.826.0 Safari/531.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/48.0.835.0 Safari/531.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/48.0.893.0 Safari/531.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.1 (KHTML, like Gecko) Chrome/55.0.827.0 Safari/531.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/22.0.817.0 Safari/531.2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/29.0.827.0 Safari/532.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/59.0.830.0 Safari/532.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/22.0.846.0 Safari/532.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/27.0.808.0 Safari/532.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/45.0.849.0 Safari/532.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/22.0.814.0 Safari/532.2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/18.0.894.0 Safari/533.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/20.0.845.0 Safari/533.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/38.0.873.0 Safari/533.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/51.0.875.0 Safari/533.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/45.0.810.0 Safari/533.2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/49.0.801.0 Safari/533.2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/53.0.800.0 Safari/533.2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/30.0.826.0 Safari/534.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/47.0.840.0 Safari/534.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/44.0.860.0 Safari/534.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/45.0.847.0 Safari/534.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/48.0.811.0 Safari/534.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/33.0.890.0 Safari/534.2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/60.0.827.0 Safari/534.2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/15.0.878.0 Safari/535.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/27.0.822.0 Safari/535.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/34.0.841.0 Safari/535.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/61.0.879.0 Safari/535.2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/38.0.859.0 Safari/536.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/46.0.890.0 Safari/536.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/47.0.835.0 Safari/536.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/62.0.815.0 Safari/536.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/22.0.849.0 Safari/536.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/38.0.856.0 Safari/536.1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/50.0.850.0 Safari/536.1
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2337-03-03 03:06:15 Firefox/9.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2786-03-20 05:43:29 Firefox/5.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/3020-11-08 08:30:56 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/3354-02-17 06:20:01 Firefox/11.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/3648-09-10 21:04:29 Firefox/7.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/4223-07-08 10:19:59 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/5833-12-13 14:09:59 Firefox/14.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/7539-08-17 10:38:32 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/7735-03-24 20:04:30 Firefox/4.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/8204-04-22 02:25:28 Firefox/3.6.2
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/8490-05-12 14:16:22 Firefox/3.6.13
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/2032-01-02 04:24:14 Firefox/3.6.18
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/3319-10-10 04:22:47 Firefox/4.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/3754-11-08 12:19:29 Firefox/14.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/4346-11-15 17:05:50 Firefox/3.6.17
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/4466-12-10 23:27:35 Firefox/3.6.17
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/4688-05-24 20:46:07 Firefox/11.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/4754-07-01 20:05:50 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/5527-11-19 22:28:45 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/5544-12-27 01:49:08 Firefox/4.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/5771-05-27 20:04:44 Firefox/3.6.14
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/7044-06-17 22:45:43 Firefox/7.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/7100-09-10 10:17:21 Firefox/3.6.19
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/7561-11-19 22:27:52 Firefox/3.6.7
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/7660-04-29 00:11:57 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/8196-04-05 19:28:19 Firefox/8.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/9062-11-13 17:00:29 Firefox/7.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/9336-05-25 10:54:17 Firefox/10.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2478-02-04 20:15:57 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/2965-01-21 07:49:25 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/3217-08-10 15:30:41 Firefox/12.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/3407-08-18 14:12:07 Firefox/3.6.15
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/4270-04-26 12:25:58 Firefox/12.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/4321-09-08 16:12:37 Firefox/11.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/4567-10-03 18:11:45 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/5006-12-24 10:15:01 Firefox/13.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/6638-12-14 15:44:40 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/6687-02-20 22:30:14 Firefox/11.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/7844-05-25 04:16:23 Firefox/9.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/7989-01-06 15:04:12 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/9209-07-15 07:56:08 Firefox/3.6.16
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/9878-05-12 06:02:18 Firefox/9.0
+Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 11.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.1; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.2; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows 95; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows CE; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 10.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 11.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.01; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.2; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows 98; Win 9x 4.90; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 11.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows 98; Win 9x 4.90; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows CE; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 11.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 4.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.01; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Win 9x 4.90; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/3.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/3.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/4.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/4.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/5.1)
+Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/18.0.887.0 Mobile/38M556 Safari/532.0
+Mozilla/5.0 (iPad; CPU iPad OS 10_3_3 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/63.0.852.0 Mobile/50V083 Safari/532.2
+Mozilla/5.0 (iPad; CPU iPad OS 10_3_4 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/17.0.899.0 Mobile/84A745 Safari/535.2
+Mozilla/5.0 (iPad; CPU iPad OS 11_4_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/48.0.807.0 Mobile/92L195 Safari/532.0
+Mozilla/5.0 (iPad; CPU iPad OS 11_4_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/15.1j7157.0 Mobile/44S046 Safari/532.2
+Mozilla/5.0 (iPad; CPU iPad OS 11_4_1 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/57.0.890.0 Mobile/11R605 Safari/535.2
+Mozilla/5.0 (iPad; CPU iPad OS 12_4_4 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/23.0.856.0 Mobile/81E522 Safari/531.0
+Mozilla/5.0 (iPad; CPU iPad OS 12_4_4 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/10.3u6397.0 Mobile/24A397 Safari/534.1
+Mozilla/5.0 (iPad; CPU iPad OS 12_4_4 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/10.5h4851.0 Mobile/52S757 Safari/535.1
+Mozilla/5.0 (iPad; CPU iPad OS 12_4_8 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/13.0f8550.0 Mobile/74U874 Safari/533.0
+Mozilla/5.0 (iPad; CPU iPad OS 12_5_7 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/10.9i6729.0 Mobile/88T618 Safari/532.0
+Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/18.2a7316.0 Mobile/99N364 Safari/531.1
+Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/13.0.835.0 Mobile/54L770 Safari/536.2
+Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/37.0.872.0 Mobile/73V717 Safari/536.2
+Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/18.0.895.0 Mobile/43N304 Safari/533.2
+Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/48.0.862.0 Mobile/20Q954 Safari/533.2
+Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/12.6v4791.0 Mobile/33S569 Safari/533.2
+Mozilla/5.0 (iPad; CPU iPad OS 14_8_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/62.0.874.0 Mobile/03M533 Safari/532.2
+Mozilla/5.0 (iPad; CPU iPad OS 14_8_1 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/9.8f8556.0 Mobile/22N155 Safari/534.1
+Mozilla/5.0 (iPad; CPU iPad OS 15_8_2 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/21.0.834.0 Mobile/76J818 Safari/532.2
+Mozilla/5.0 (iPad; CPU iPad OS 15_8_2 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/31.0.867.0 Mobile/18A548 Safari/535.0
+Mozilla/5.0 (iPad; CPU iPad OS 15_8_2 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/17.5q7315.0 Mobile/59S755 Safari/535.0
+Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/17.4a3827.0 Mobile/01A603 Safari/533.1
+Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/16.8n1496.0 Mobile/40M087 Safari/535.0
+Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/13.7d1706.0 Mobile/18B637 Safari/535.2
+Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/60.0.894.0 Mobile/55S076 Safari/536.0
+Mozilla/5.0 (iPad; CPU iPad OS 16_7_6 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/11.6k0792.0 Mobile/75T036 Safari/536.2
+Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/14.6i4538.0 Mobile/39A699 Safari/532.0
+Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/18.6j6656.0 Mobile/60S992 Safari/532.2
+Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/59.0.800.0 Mobile/81S605 Safari/535.0
+Mozilla/5.0 (iPad; CPU iPad OS 17_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/13.6u3152.0 Mobile/27J988 Safari/536.2
+Mozilla/5.0 (iPad; CPU iPad OS 17_1_1 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/19.0.849.0 Mobile/55A279 Safari/533.1
+Mozilla/5.0 (iPad; CPU iPad OS 17_1_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/14.4w9857.0 Mobile/12S245 Safari/535.1
+Mozilla/5.0 (iPad; CPU iPad OS 17_1_2 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/16.3q8767.0 Mobile/83M204 Safari/531.1
+Mozilla/5.0 (iPad; CPU iPad OS 17_1_2 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/15.5h6070.0 Mobile/95M644 Safari/532.2
+Mozilla/5.0 (iPad; CPU iPad OS 17_1_2 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/23.0.839.0 Mobile/39H345 Safari/533.1
+Mozilla/5.0 (iPad; CPU iPad OS 17_1_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/10.9o5969.0 Mobile/41H586 Safari/535.2
+Mozilla/5.0 (iPad; CPU iPad OS 17_2 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/15.7t9400.0 Mobile/40Q506 Safari/531.2
+Mozilla/5.0 (iPad; CPU iPad OS 17_2 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/12.5p2301.0 Mobile/25A194 Safari/533.2
+Mozilla/5.0 (iPad; CPU iPad OS 17_2 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/61.0.847.0 Mobile/77D636 Safari/536.1
+Mozilla/5.0 (iPad; CPU iPad OS 17_3 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/19.0.844.0 Mobile/13A011 Safari/531.2
+Mozilla/5.0 (iPad; CPU iPad OS 17_3 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) CriOS/38.0.803.0 Mobile/09X219 Safari/532.2
+Mozilla/5.0 (iPad; CPU iPad OS 17_3_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/54.0.893.0 Mobile/32T196 Safari/532.0
+Mozilla/5.0 (iPad; CPU iPad OS 17_4 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/51.0.808.0 Mobile/15C720 Safari/532.1
+Mozilla/5.0 (iPad; CPU iPad OS 17_4 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/13.0q0459.0 Mobile/45K113 Safari/535.0
+Mozilla/5.0 (iPad; CPU iPad OS 17_4 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/16.1z9366.0 Mobile/89Z286 Safari/536.2
+Mozilla/5.0 (iPad; CPU iPad OS 17_4_1 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/50.0.848.0 Mobile/86C042 Safari/533.1
+Mozilla/5.0 (iPad; CPU iPad OS 17_4_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/18.2i5608.0 Mobile/90N395 Safari/536.0
+Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/38.0.801.0 Mobile/15S903 Safari/531.1
+Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/21.0.839.0 Mobile/24H990 Safari/532.0
+Mozilla/5.0 (iPad; CPU iPad OS 1_1_5 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/61.0.827.0 Mobile/78V457 Safari/535.2
+Mozilla/5.0 (iPad; CPU iPad OS 2_2_1 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/13.1j5177.0 Mobile/89X808 Safari/534.1
+Mozilla/5.0 (iPad; CPU iPad OS 2_2_1 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/13.0.896.0 Mobile/67T109 Safari/535.0
+Mozilla/5.0 (iPad; CPU iPad OS 3_1_3 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/13.3u7581.0 Mobile/08O212 Safari/534.2
+Mozilla/5.0 (iPad; CPU iPad OS 3_2_2 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/47.0.826.0 Mobile/75Z192 Safari/534.0
+Mozilla/5.0 (iPad; CPU iPad OS 3_2_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/14.3q2759.0 Mobile/38J868 Safari/535.2
+Mozilla/5.0 (iPad; CPU iPad OS 3_2_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/18.7w8690.0 Mobile/72V299 Safari/535.2
+Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/18.4p7427.0 Mobile/13A669 Safari/532.2
+Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/41.0.877.0 Mobile/06Y308 Safari/533.0
+Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/16.1t1103.0 Mobile/98I548 Safari/535.1
+Mozilla/5.0 (iPad; CPU iPad OS 4_3_5 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/28.0.818.0 Mobile/70W372 Safari/535.0
+Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/10.8o5688.0 Mobile/22J793 Safari/532.1
+Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/17.2r7046.0 Mobile/62R374 Safari/535.1
+Mozilla/5.0 (iPad; CPU iPad OS 5_1_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/34.0.826.0 Mobile/58V858 Safari/536.0
+Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/36.0.870.0 Mobile/76X504 Safari/532.1
+Mozilla/5.0 (iPad; CPU iPad OS 6_1_6 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/61.0.822.0 Mobile/79Q174 Safari/533.1
+Mozilla/5.0 (iPad; CPU iPad OS 8_4_1 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) FxiOS/14.9n0377.0 Mobile/23K431 Safari/533.1
+Mozilla/5.0 (iPad; CPU iPad OS 8_4_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/63.0.871.0 Mobile/71N949 Safari/535.1
+Mozilla/5.0 (iPad; CPU iPad OS 9_3_5 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/16.5a4943.0 Mobile/97Z060 Safari/535.2
+Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/12.2m3119.0 Mobile/28X329 Safari/535.1
+Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/14.0r7068.0 Mobile/89U074 Safari/535.2
+Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/12.7m2348.0 Mobile/08L276 Safari/536.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/15.1b8358.0 Mobile/54F371 Safari/531.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/63.0.899.0 Mobile/01L959 Safari/534.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/19.0.874.0 Mobile/71J496 Safari/536.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/23.0.812.0 Mobile/87X353 Safari/532.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/12.9s8233.0 Mobile/33H040 Safari/534.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/11.4c3042.0 Mobile/73V376 Safari/531.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/28.0.848.0 Mobile/89R367 Safari/536.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/13.8q5773.0 Mobile/15T258 Safari/533.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) CriOS/24.0.879.0 Mobile/72G482 Safari/533.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/11.3i3630.0 Mobile/35P288 Safari/533.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/12.0k0310.0 Mobile/98K480 Safari/536.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/19.0.852.0 Mobile/84T742 Safari/536.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/31.0.870.0 Mobile/97O551 Safari/532.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/16.8i8447.0 Mobile/28S586 Safari/533.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/15.0.860.0 Mobile/54N172 Safari/534.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/9.8w0052.0 Mobile/68F462 Safari/535.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) FxiOS/18.7j6836.0 Mobile/20D286 Safari/535.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/13.7v7794.0 Mobile/10T722 Safari/535.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_6 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) FxiOS/18.5b1086.0 Mobile/86W085 Safari/531.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_7 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/41.0.845.0 Mobile/09E092 Safari/533.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_7 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/52.0.830.0 Mobile/02V390 Safari/534.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_7 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) FxiOS/11.6p3177.0 Mobile/06H658 Safari/534.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_7 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/16.0j1172.0 Mobile/72Q947 Safari/536.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/45.0.845.0 Mobile/79P238 Safari/531.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko) FxiOS/13.4s4719.0 Mobile/55Z498 Safari/533.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/533.1 (KHTML, like Gecko) CriOS/29.0.858.0 Mobile/49E608 Safari/533.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/32.0.899.0 Mobile/42B569 Safari/532.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/11.6m9010.0 Mobile/06W946 Safari/535.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/44.0.807.0 Mobile/86S539 Safari/532.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/17.5a2441.0 Mobile/81S854 Safari/532.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/17.1k0777.0 Mobile/54Z455 Safari/534.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/48.0.821.0 Mobile/74Y055 Safari/536.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/15.1n9243.0 Mobile/86C372 Safari/536.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) CriOS/41.0.823.0 Mobile/61J251 Safari/531.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/10.1d4904.0 Mobile/18N030 Safari/534.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko) CriOS/26.0.882.0 Mobile/60E959 Safari/534.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/13.1o8582.0 Mobile/92G686 Safari/532.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/33.0.823.0 Mobile/64G168 Safari/536.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/60.0.888.0 Mobile/31M348 Safari/533.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/11.0w8707.0 Mobile/69D691 Safari/533.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/24.0.896.0 Mobile/09E669 Safari/536.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/15.3o8176.0 Mobile/56T288 Safari/536.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 1_1_5 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) FxiOS/12.6e8682.0 Mobile/29Z475 Safari/536.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 1_1_5 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) FxiOS/9.5f6554.0 Mobile/05D378 Safari/536.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 1_1_5 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/23.0.877.0 Mobile/03L892 Safari/536.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 2_2_1 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/17.9i5801.0 Mobile/37O276 Safari/531.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 2_2_1 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) FxiOS/11.1o3268.0 Mobile/59L448 Safari/532.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 3_1_3 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/51.0.801.0 Mobile/17E394 Safari/536.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/19.0.818.0 Mobile/48E935 Safari/534.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) FxiOS/10.9c6817.0 Mobile/26G962 Safari/534.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 3_2_2 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/35.0.896.0 Mobile/06V929 Safari/535.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/534.0 (KHTML, like Gecko) CriOS/47.0.892.0 Mobile/91V419 Safari/534.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 4_3_5 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) FxiOS/10.2g6420.0 Mobile/80A343 Safari/531.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 4_3_5 like Mac OS X) AppleWebKit/536.0 (KHTML, like Gecko) CriOS/44.0.867.0 Mobile/39X841 Safari/536.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) CriOS/28.0.808.0 Mobile/08C642 Safari/533.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/531.0 (KHTML, like Gecko) CriOS/60.0.824.0 Mobile/52O543 Safari/531.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/13.8m1724.0 Mobile/76I703 Safari/532.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) FxiOS/11.3y8909.0 Mobile/91S345 Safari/536.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko) CriOS/40.0.873.0 Mobile/15W831 Safari/536.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) FxiOS/16.4s2244.0 Mobile/80Q689 Safari/535.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/532.1 (KHTML, like Gecko) CriOS/63.0.866.0 Mobile/90J774 Safari/532.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/532.2 (KHTML, like Gecko) FxiOS/9.4g7022.0 Mobile/45D180 Safari/532.2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/535.2 (KHTML, like Gecko) CriOS/16.0.806.0 Mobile/64H063 Safari/535.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; be-BY) AppleWebKit/531.47.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6531.47.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; bem-ZM) AppleWebKit/534.26.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6534.26.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; csb-PL) AppleWebKit/535.28.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6535.28.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; cy-GB) AppleWebKit/532.36.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6532.36.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; da-DK) AppleWebKit/533.36.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6533.36.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; eu-ES) AppleWebKit/534.34.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6534.34.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; fur-IT) AppleWebKit/533.46.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6533.46.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ht-HT) AppleWebKit/534.19.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6534.19.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ks-IN) AppleWebKit/531.4.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6531.4.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ks-IN) AppleWebKit/534.34.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6534.34.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; nl-AW) AppleWebKit/531.2.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.2.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ro-RO) AppleWebKit/535.49.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6535.49.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ru-RU) AppleWebKit/533.38.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6533.38.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ss-ZA) AppleWebKit/535.35.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6535.35.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; sw-TZ) AppleWebKit/533.39.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6533.39.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; ta-LK) AppleWebKit/531.36.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6531.36.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; tg-TJ) AppleWebKit/534.46.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6534.46.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; unm-US) AppleWebKit/533.36.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6533.36.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; an-ES) AppleWebKit/535.38.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6535.38.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; bn-IN) AppleWebKit/534.33.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6534.33.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; byn-ER) AppleWebKit/531.18.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6531.18.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; ckb-IQ) AppleWebKit/533.11.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6533.11.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; csb-PL) AppleWebKit/533.19.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6533.19.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; en-GB) AppleWebKit/532.34.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6532.34.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; gd-GB) AppleWebKit/535.38.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6535.38.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; gd-GB) AppleWebKit/535.50.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6535.50.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; ko-KR) AppleWebKit/535.50.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6535.50.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; ml-IN) AppleWebKit/531.18.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6531.18.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; nr-ZA) AppleWebKit/535.6.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6535.6.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; sa-IN) AppleWebKit/532.23.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6532.23.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; shs-CA) AppleWebKit/532.15.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6532.15.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; sv-FI) AppleWebKit/532.36.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6532.36.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; tl-PH) AppleWebKit/532.18.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6532.18.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; tt-RU) AppleWebKit/535.50.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6535.50.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; zh-SG) AppleWebKit/533.11.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6533.11.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_1 like Mac OS X; zu-ZA) AppleWebKit/531.28.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6531.28.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; am-ET) AppleWebKit/531.32.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6531.32.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; bho-IN) AppleWebKit/533.29.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6533.29.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; byn-ER) AppleWebKit/534.9.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6534.9.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ckb-IQ) AppleWebKit/531.36.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6531.36.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ckb-IQ) AppleWebKit/535.5.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6535.5.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; crh-UA) AppleWebKit/535.39.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6535.39.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; csb-PL) AppleWebKit/531.2.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6531.2.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; he-IL) AppleWebKit/535.5.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6535.5.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; iw-IL) AppleWebKit/532.40.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6532.40.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; kn-IN) AppleWebKit/533.30.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6533.30.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ko-KR) AppleWebKit/531.7.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6531.7.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ks-IN) AppleWebKit/531.22.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6531.22.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ks-IN) AppleWebKit/532.19.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6532.19.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; lij-IT) AppleWebKit/535.16.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6535.16.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; mg-MG) AppleWebKit/532.10.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6532.10.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ne-NP) AppleWebKit/535.29.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6535.29.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; ti-ER) AppleWebKit/535.22.1 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6535.22.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; tt-RU) AppleWebKit/531.12.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6531.12.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; uz-UZ) AppleWebKit/534.50.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6534.50.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ast-ES) AppleWebKit/532.31.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6532.31.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; bhb-IN) AppleWebKit/535.47.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6535.47.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; fi-FI) AppleWebKit/532.20.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6532.20.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; fr-FR) AppleWebKit/535.16.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6535.16.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; hi-IN) AppleWebKit/531.6.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6531.6.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; ky-KG) AppleWebKit/534.17.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6534.17.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; mn-MN) AppleWebKit/534.33.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6534.33.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; nn-NO) AppleWebKit/535.27.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6535.27.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; quz-PE) AppleWebKit/534.13.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.13.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; sc-IT) AppleWebKit/534.50.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6534.50.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; uk-UA) AppleWebKit/532.15.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6532.15.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; aa-ET) AppleWebKit/532.44.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6532.44.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; bn-BD) AppleWebKit/531.42.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6531.42.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; bn-IN) AppleWebKit/534.2.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6534.2.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; bo-CN) AppleWebKit/532.1.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6532.1.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; cmn-TW) AppleWebKit/533.25.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6533.25.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; fur-IT) AppleWebKit/531.19.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6531.19.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; gez-ET) AppleWebKit/532.13.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6532.13.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; gl-ES) AppleWebKit/535.24.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6535.24.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; it-IT) AppleWebKit/534.10.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6534.10.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; lg-UG) AppleWebKit/532.3.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6532.3.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; ms-MY) AppleWebKit/531.43.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6531.43.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; nds-DE) AppleWebKit/532.5.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6532.5.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; nn-NO) AppleWebKit/535.24.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6535.24.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; raj-IN) AppleWebKit/534.19.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6534.19.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; ro-RO) AppleWebKit/534.26.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6534.26.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; sl-SI) AppleWebKit/531.16.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.16.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; sq-ML) AppleWebKit/531.45.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6531.45.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; sw-TZ) AppleWebKit/535.26.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6535.26.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; szl-PL) AppleWebKit/532.2.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6532.2.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; th-TH) AppleWebKit/535.17.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6535.17.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; ts-ZA) AppleWebKit/534.15.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6534.15.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; xh-ZA) AppleWebKit/532.2.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6532.2.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; zu-ZA) AppleWebKit/535.41.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6535.41.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; brx-IN) AppleWebKit/531.29.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6531.29.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; dz-BT) AppleWebKit/531.29.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6531.29.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; hr-HR) AppleWebKit/535.46.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6535.46.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; kk-KZ) AppleWebKit/533.40.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6533.40.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; lb-LU) AppleWebKit/533.9.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6533.9.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; mag-IN) AppleWebKit/534.46.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6534.46.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; mi-NZ) AppleWebKit/531.37.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6531.37.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; my-MM) AppleWebKit/531.5.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6531.5.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; the-NP) AppleWebKit/533.24.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6533.24.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; tk-TM) AppleWebKit/534.43.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6534.43.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; ug-CN) AppleWebKit/533.15.1 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6533.15.1
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; zh-CN) AppleWebKit/535.48.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6535.48.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ast-ES) AppleWebKit/532.34.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6532.34.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ber-DZ) AppleWebKit/532.39.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6532.39.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; bhb-IN) AppleWebKit/534.29.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6534.29.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; br-FR) AppleWebKit/535.13.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6535.13.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; cs-CZ) AppleWebKit/533.22.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6533.22.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; da-DK) AppleWebKit/535.46.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6535.46.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; doi-IN) AppleWebKit/534.34.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B115 Safari/6534.34.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; es-DO) AppleWebKit/533.26.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6533.26.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; fur-IT) AppleWebKit/535.49.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6535.49.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ga-IE) AppleWebKit/534.4.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6534.4.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; gv-GB) AppleWebKit/533.45.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B117 Safari/6533.45.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; hr-HR) AppleWebKit/534.44.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6534.44.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; mhr-RU) AppleWebKit/534.26.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.26.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; mr-IN) AppleWebKit/534.44.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6534.44.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; nl-NL) AppleWebKit/534.35.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6534.35.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; nso-ZA) AppleWebKit/534.13.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6534.13.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; raj-IN) AppleWebKit/534.5.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6534.5.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; sl-SI) AppleWebKit/532.47.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6532.47.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; ss-ZA) AppleWebKit/533.7.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6533.7.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; tl-PH) AppleWebKit/535.17.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B115 Safari/6535.17.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; zu-ZA) AppleWebKit/531.38.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6531.38.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; as-IN) AppleWebKit/532.13.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6532.13.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; bo-IN) AppleWebKit/535.11.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6535.11.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; bo-IN) AppleWebKit/535.23.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6535.23.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; br-FR) AppleWebKit/531.29.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6531.29.5
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; ca-ES) AppleWebKit/531.39.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B112 Safari/6531.39.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; fa-IR) AppleWebKit/534.10.2 (KHTML, like Gecko) Version/4.0.5 Mobile/8B111 Safari/6534.10.2
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; gl-ES) AppleWebKit/534.49.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B119 Safari/6534.49.4
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; he-IL) AppleWebKit/532.37.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B113 Safari/6532.37.6
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; mag-IN) AppleWebKit/532.43.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6532.43.3
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; nr-ZA) AppleWebKit/535.31.7 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6535.31.7
+Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; sr-ME) AppleWebKit/534.49.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B114 Safari/6534.49.2
+Opera/8.11.(Windows CE; mg-MG) Presto/2.9.177 Version/11.00
+Opera/8.11.(Windows NT 5.01; ka-GE) Presto/2.9.179 Version/12.00
+Opera/8.12.(X11; Linux x86_64; hsb-DE) Presto/2.9.161 Version/11.00
+Opera/8.13.(Windows NT 11.0; ia-FR) Presto/2.9.175 Version/12.00
+Opera/8.13.(X11; Linux i686; km-KH) Presto/2.9.167 Version/11.00
+Opera/8.13.(X11; Linux x86_64; sq-ML) Presto/2.9.190 Version/11.00
+Opera/8.14.(Windows 98; Win 9x 4.90; br-FR) Presto/2.9.189 Version/10.00
+Opera/8.14.(Windows NT 6.0; ig-NG) Presto/2.9.186 Version/12.00
+Opera/8.14.(X11; Linux i686; hy-AM) Presto/2.9.186 Version/10.00
+Opera/8.15.(Windows NT 11.0; sc-IT) Presto/2.9.172 Version/12.00
+Opera/8.16.(Windows 98; uk-UA) Presto/2.9.168 Version/10.00
+Opera/8.16.(X11; Linux i686; vi-VN) Presto/2.9.176 Version/12.00
+Opera/8.17.(Windows NT 5.01; ha-NG) Presto/2.9.162 Version/12.00
+Opera/8.17.(X11; Linux i686; bo-IN) Presto/2.9.161 Version/10.00
+Opera/8.17.(X11; Linux i686; sv-SE) Presto/2.9.165 Version/10.00
+Opera/8.18.(Windows NT 5.01; nb-NO) Presto/2.9.176 Version/12.00
+Opera/8.18.(Windows NT 6.1; sw-KE) Presto/2.9.176 Version/10.00
+Opera/8.19.(Windows NT 5.01; tg-TJ) Presto/2.9.164 Version/10.00
+Opera/8.19.(X11; Linux x86_64; ur-IN) Presto/2.9.189 Version/12.00
+Opera/8.20.(Windows NT 5.1; mhr-RU) Presto/2.9.174 Version/11.00
+Opera/8.21.(X11; Linux i686; ko-KR) Presto/2.9.172 Version/12.00
+Opera/8.21.(X11; Linux x86_64; sq-AL) Presto/2.9.162 Version/10.00
+Opera/8.21.(X11; Linux x86_64; unm-US) Presto/2.9.167 Version/11.00
+Opera/8.22.(X11; Linux i686; ce-RU) Presto/2.9.178 Version/10.00
+Opera/8.22.(X11; Linux i686; hne-IN) Presto/2.9.190 Version/11.00
+Opera/8.23.(Windows NT 10.0; sd-IN) Presto/2.9.175 Version/12.00
+Opera/8.23.(Windows NT 11.0; ja-JP) Presto/2.9.179 Version/10.00
+Opera/8.24.(Windows NT 5.01; kw-GB) Presto/2.9.168 Version/12.00
+Opera/8.26.(Windows CE; ha-NG) Presto/2.9.165 Version/10.00
+Opera/8.26.(Windows NT 10.0; ga-IE) Presto/2.9.168 Version/10.00
+Opera/8.27.(Windows 95; as-IN) Presto/2.9.169 Version/12.00
+Opera/8.27.(X11; Linux x86_64; ber-DZ) Presto/2.9.176 Version/11.00
+Opera/8.28.(X11; Linux i686; ur-IN) Presto/2.9.180 Version/11.00
+Opera/8.29.(Windows NT 5.0; zu-ZA) Presto/2.9.161 Version/10.00
+Opera/8.29.(X11; Linux x86_64; ks-IN) Presto/2.9.167 Version/11.00
+Opera/8.31.(X11; Linux i686; wo-SN) Presto/2.9.173 Version/12.00
+Opera/8.32.(X11; Linux i686; ht-HT) Presto/2.9.160 Version/12.00
+Opera/8.33.(X11; Linux i686; mr-IN) Presto/2.9.160 Version/12.00
+Opera/8.34.(Windows NT 4.0; zh-TW) Presto/2.9.166 Version/11.00
+Opera/8.34.(X11; Linux x86_64; ku-TR) Presto/2.9.161 Version/12.00
+Opera/8.35.(Windows NT 4.0; cy-GB) Presto/2.9.183 Version/10.00
+Opera/8.35.(X11; Linux i686; sd-PK) Presto/2.9.176 Version/11.00
+Opera/8.35.(X11; Linux i686; se-NO) Presto/2.9.186 Version/10.00
+Opera/8.35.(X11; Linux x86_64; aa-DJ) Presto/2.9.164 Version/10.00
+Opera/8.36.(X11; Linux i686; bn-BD) Presto/2.9.178 Version/10.00
+Opera/8.36.(X11; Linux i686; ja-JP) Presto/2.9.174 Version/11.00
+Opera/8.36.(X11; Linux x86_64; ce-RU) Presto/2.9.187 Version/11.00
+Opera/8.37.(Windows NT 11.0; ti-ET) Presto/2.9.184 Version/10.00
+Opera/8.37.(Windows NT 4.0; om-KE) Presto/2.9.178 Version/10.00
+Opera/8.37.(X11; Linux i686; pa-IN) Presto/2.9.178 Version/12.00
+Opera/8.38.(Windows 98; iu-CA) Presto/2.9.176 Version/12.00
+Opera/8.39.(Windows NT 6.1; bho-IN) Presto/2.9.184 Version/11.00
+Opera/8.39.(X11; Linux i686; bho-IN) Presto/2.9.176 Version/10.00
+Opera/8.40.(Windows CE; oc-FR) Presto/2.9.162 Version/12.00
+Opera/8.40.(Windows NT 5.01; szl-PL) Presto/2.9.163 Version/12.00
+Opera/8.40.(Windows NT 5.0; so-SO) Presto/2.9.180 Version/11.00
+Opera/8.41.(Windows NT 4.0; hne-IN) Presto/2.9.166 Version/10.00
+Opera/8.41.(X11; Linux i686; wa-BE) Presto/2.9.163 Version/11.00
+Opera/8.41.(X11; Linux x86_64; as-IN) Presto/2.9.182 Version/12.00
+Opera/8.42.(Windows NT 6.0; si-LK) Presto/2.9.177 Version/10.00
+Opera/8.43.(Windows 95; ht-HT) Presto/2.9.181 Version/12.00
+Opera/8.43.(Windows NT 11.0; sr-ME) Presto/2.9.188 Version/11.00
+Opera/8.43.(Windows NT 5.1; ga-IE) Presto/2.9.164 Version/10.00
+Opera/8.43.(X11; Linux i686; nn-NO) Presto/2.9.163 Version/10.00
+Opera/8.44.(Windows NT 6.1; cmn-TW) Presto/2.9.185 Version/11.00
+Opera/8.45.(Windows NT 10.0; ks-IN) Presto/2.9.176 Version/12.00
+Opera/8.45.(X11; Linux i686; vi-VN) Presto/2.9.161 Version/10.00
+Opera/8.45.(X11; Linux x86_64; kok-IN) Presto/2.9.187 Version/11.00
+Opera/8.46.(Windows NT 6.2; ayc-PE) Presto/2.9.172 Version/10.00
+Opera/8.47.(Windows NT 11.0; nds-NL) Presto/2.9.168 Version/10.00
+Opera/8.47.(Windows NT 5.01; mag-IN) Presto/2.9.183 Version/10.00
+Opera/8.47.(Windows NT 5.0; dz-BT) Presto/2.9.184 Version/11.00
+Opera/8.47.(Windows NT 5.1; szl-PL) Presto/2.9.178 Version/12.00
+Opera/8.47.(Windows NT 6.1; eo-US) Presto/2.9.185 Version/12.00
+Opera/8.47.(X11; Linux i686; ti-ET) Presto/2.9.185 Version/10.00
+Opera/8.49.(Windows 95; kok-IN) Presto/2.9.161 Version/12.00
+Opera/8.49.(Windows 98; Win 9x 4.90; mn-MN) Presto/2.9.180 Version/11.00
+Opera/8.49.(Windows NT 6.1; kok-IN) Presto/2.9.167 Version/11.00
+Opera/8.49.(X11; Linux i686; fur-IT) Presto/2.9.183 Version/12.00
+Opera/8.51.(Windows 98; Win 9x 4.90; zh-SG) Presto/2.9.179 Version/10.00
+Opera/8.51.(Windows CE; ia-FR) Presto/2.9.169 Version/11.00
+Opera/8.51.(X11; Linux x86_64; br-FR) Presto/2.9.161 Version/10.00
+Opera/8.51.(X11; Linux x86_64; cy-GB) Presto/2.9.180 Version/10.00
+Opera/8.51.(X11; Linux x86_64; sl-SI) Presto/2.9.179 Version/10.00
+Opera/8.53.(Windows NT 10.0; the-NP) Presto/2.9.172 Version/10.00
+Opera/8.53.(X11; Linux i686; ha-NG) Presto/2.9.182 Version/12.00
+Opera/8.53.(X11; Linux i686; li-BE) Presto/2.9.169 Version/10.00
+Opera/8.53.(X11; Linux x86_64; et-EE) Presto/2.9.183 Version/12.00
+Opera/8.54.(Windows 95; doi-IN) Presto/2.9.170 Version/12.00
+Opera/8.54.(Windows NT 11.0; ta-LK) Presto/2.9.172 Version/12.00
+Opera/8.54.(X11; Linux x86_64; mhr-RU) Presto/2.9.181 Version/11.00
+Opera/8.54.(X11; Linux x86_64; sat-IN) Presto/2.9.172 Version/10.00
+Opera/8.57.(Windows NT 5.0; cy-GB) Presto/2.9.173 Version/12.00
+Opera/8.58.(Windows 95; fo-FO) Presto/2.9.170 Version/12.00
+Opera/8.58.(Windows CE; bg-BG) Presto/2.9.186 Version/11.00
+Opera/8.58.(Windows CE; ga-IE) Presto/2.9.178 Version/10.00
+Opera/8.58.(Windows NT 4.0; ps-AF) Presto/2.9.184 Version/12.00
+Opera/8.59.(Windows 98; sa-IN) Presto/2.9.180 Version/10.00
+Opera/8.59.(Windows NT 10.0; ks-IN) Presto/2.9.162 Version/10.00
+Opera/8.59.(Windows NT 5.01; ky-KG) Presto/2.9.190 Version/12.00
+Opera/8.59.(X11; Linux i686; it-IT) Presto/2.9.179 Version/12.00
+Opera/8.59.(X11; Linux i686; mk-MK) Presto/2.9.177 Version/12.00
+Opera/8.60.(X11; Linux i686; sa-IN) Presto/2.9.175 Version/10.00
+Opera/8.60.(X11; Linux x86_64; is-IS) Presto/2.9.163 Version/12.00
+Opera/8.61.(X11; Linux x86_64; sk-SK) Presto/2.9.164 Version/12.00
+Opera/8.62.(Windows NT 6.2; mk-MK) Presto/2.9.174 Version/11.00
+Opera/8.63.(Windows 98; lb-LU) Presto/2.9.170 Version/10.00
+Opera/8.63.(Windows CE; ga-IE) Presto/2.9.163 Version/10.00
+Opera/8.63.(X11; Linux i686; zh-CN) Presto/2.9.185 Version/10.00
+Opera/8.63.(X11; Linux x86_64; kw-GB) Presto/2.9.179 Version/12.00
+Opera/8.64.(Windows NT 11.0; nhn-MX) Presto/2.9.177 Version/11.00
+Opera/8.64.(Windows NT 5.01; csb-PL) Presto/2.9.161 Version/12.00
+Opera/8.64.(X11; Linux i686; ast-ES) Presto/2.9.183 Version/12.00
+Opera/8.64.(X11; Linux x86_64; mai-IN) Presto/2.9.182 Version/11.00
+Opera/8.65.(Windows NT 10.0; af-ZA) Presto/2.9.174 Version/10.00
+Opera/8.65.(Windows NT 5.01; oc-FR) Presto/2.9.170 Version/12.00
+Opera/8.65.(X11; Linux i686; es-ES) Presto/2.9.163 Version/10.00
+Opera/8.67.(Windows NT 6.1; sv-FI) Presto/2.9.165 Version/12.00
+Opera/8.67.(X11; Linux i686; km-KH) Presto/2.9.185 Version/12.00
+Opera/8.67.(X11; Linux i686; szl-PL) Presto/2.9.169 Version/12.00
+Opera/8.68.(Windows NT 5.01; sa-IN) Presto/2.9.190 Version/12.00
+Opera/8.68.(X11; Linux i686; tl-PH) Presto/2.9.163 Version/10.00
+Opera/8.69.(Windows 95; eo-US) Presto/2.9.168 Version/10.00
+Opera/8.69.(X11; Linux i686; bg-BG) Presto/2.9.167 Version/12.00
+Opera/8.69.(X11; Linux x86_64; brx-IN) Presto/2.9.178 Version/11.00
+Opera/8.71.(Windows NT 5.1; ps-AF) Presto/2.9.162 Version/11.00
+Opera/8.71.(X11; Linux i686; the-NP) Presto/2.9.163 Version/10.00
+Opera/8.71.(X11; Linux x86_64; kok-IN) Presto/2.9.188 Version/11.00
+Opera/8.72.(Windows 95; ks-IN) Presto/2.9.169 Version/12.00
+Opera/8.72.(Windows NT 6.0; aa-ER) Presto/2.9.187 Version/12.00
+Opera/8.72.(Windows NT 6.1; fr-LU) Presto/2.9.186 Version/12.00
+Opera/8.72.(Windows NT 6.1; ta-IN) Presto/2.9.176 Version/11.00
+Opera/8.73.(Windows 98; ckb-IQ) Presto/2.9.167 Version/12.00
+Opera/8.73.(Windows NT 5.01; vi-VN) Presto/2.9.188 Version/10.00
+Opera/8.73.(Windows NT 6.0; kk-KZ) Presto/2.9.173 Version/11.00
+Opera/8.73.(X11; Linux i686; uz-UZ) Presto/2.9.161 Version/12.00
+Opera/8.73.(X11; Linux x86_64; mt-MT) Presto/2.9.178 Version/12.00
+Opera/8.74.(Windows NT 6.2; fy-DE) Presto/2.9.160 Version/10.00
+Opera/8.74.(X11; Linux i686; ks-IN) Presto/2.9.170 Version/12.00
+Opera/8.74.(X11; Linux x86_64; ro-RO) Presto/2.9.176 Version/11.00
+Opera/8.75.(Windows 98; ia-FR) Presto/2.9.182 Version/12.00
+Opera/8.76.(X11; Linux i686; ms-MY) Presto/2.9.181 Version/10.00
+Opera/8.76.(X11; Linux i686; nl-AW) Presto/2.9.175 Version/11.00
+Opera/8.77.(Windows NT 6.1; uk-UA) Presto/2.9.163 Version/12.00
+Opera/8.77.(X11; Linux i686; ast-ES) Presto/2.9.171 Version/11.00
+Opera/8.77.(X11; Linux i686; niu-NU) Presto/2.9.177 Version/11.00
+Opera/8.77.(X11; Linux x86_64; te-IN) Presto/2.9.179 Version/10.00
+Opera/8.78.(Windows NT 5.0; oc-FR) Presto/2.9.167 Version/12.00
+Opera/8.78.(X11; Linux x86_64; bs-BA) Presto/2.9.174 Version/11.00
+Opera/8.80.(Windows NT 11.0; fur-IT) Presto/2.9.162 Version/11.00
+Opera/8.80.(Windows NT 5.01; pa-PK) Presto/2.9.166 Version/10.00
+Opera/8.81.(X11; Linux i686; bho-IN) Presto/2.9.160 Version/12.00
+Opera/8.82.(Windows CE; ce-RU) Presto/2.9.164 Version/12.00
+Opera/8.82.(Windows CE; kn-IN) Presto/2.9.185 Version/12.00
+Opera/8.82.(Windows NT 5.2; crh-UA) Presto/2.9.185 Version/12.00
+Opera/8.82.(X11; Linux x86_64; pap-AW) Presto/2.9.162 Version/10.00
+Opera/8.83.(X11; Linux i686; eu-FR) Presto/2.9.172 Version/11.00
+Opera/8.83.(X11; Linux i686; rw-RW) Presto/2.9.172 Version/12.00
+Opera/8.84.(X11; Linux i686; eo-US) Presto/2.9.174 Version/12.00
+Opera/8.84.(X11; Linux i686; pl-PL) Presto/2.9.176 Version/11.00
+Opera/8.84.(X11; Linux x86_64; bg-BG) Presto/2.9.183 Version/12.00
+Opera/8.85.(Windows NT 11.0; so-SO) Presto/2.9.179 Version/11.00
+Opera/8.85.(Windows NT 6.1; az-AZ) Presto/2.9.177 Version/10.00
+Opera/8.85.(Windows NT 6.2; vi-VN) Presto/2.9.174 Version/11.00
+Opera/8.85.(X11; Linux x86_64; niu-NZ) Presto/2.9.189 Version/10.00
+Opera/8.85.(X11; Linux x86_64; unm-US) Presto/2.9.165 Version/10.00
+Opera/8.86.(Windows NT 11.0; en-NG) Presto/2.9.178 Version/12.00
+Opera/8.86.(Windows NT 6.1; sq-ML) Presto/2.9.185 Version/11.00
+Opera/8.86.(X11; Linux i686; ia-FR) Presto/2.9.165 Version/12.00
+Opera/8.86.(X11; Linux i686; pa-PK) Presto/2.9.164 Version/10.00
+Opera/8.88.(X11; Linux i686; tk-TM) Presto/2.9.179 Version/11.00
+Opera/8.90.(Windows NT 11.0; da-DK) Presto/2.9.166 Version/12.00
+Opera/8.91.(X11; Linux i686; ms-MY) Presto/2.9.182 Version/10.00
+Opera/8.92.(Windows NT 6.0; km-KH) Presto/2.9.184 Version/12.00
+Opera/8.92.(X11; Linux i686; sk-SK) Presto/2.9.184 Version/11.00
+Opera/8.92.(X11; Linux i686; sw-KE) Presto/2.9.176 Version/11.00
+Opera/8.93.(Windows NT 5.2; ru-RU) Presto/2.9.169 Version/10.00
+Opera/8.93.(X11; Linux i686; tig-ER) Presto/2.9.184 Version/11.00
+Opera/8.93.(X11; Linux x86_64; tcy-IN) Presto/2.9.173 Version/10.00
+Opera/8.94.(Windows NT 5.01; ht-HT) Presto/2.9.176 Version/12.00
+Opera/8.94.(Windows NT 6.2; km-KH) Presto/2.9.180 Version/10.00
+Opera/8.96.(X11; Linux x86_64; kok-IN) Presto/2.9.164 Version/11.00
+Opera/8.97.(X11; Linux i686; lt-LT) Presto/2.9.182 Version/10.00
+Opera/8.97.(X11; Linux i686; wae-CH) Presto/2.9.186 Version/12.00
+Opera/8.98.(X11; Linux x86_64; bn-IN) Presto/2.9.163 Version/12.00
+Opera/8.99.(Windows NT 6.0; mt-MT) Presto/2.9.169 Version/11.00
+Opera/8.99.(X11; Linux i686; et-EE) Presto/2.9.167 Version/11.00
+Opera/8.99.(X11; Linux i686; sl-SI) Presto/2.9.161 Version/12.00
+Opera/9.10.(Windows 95; ps-AF) Presto/2.9.173 Version/12.00
+Opera/9.10.(Windows NT 5.1; wae-CH) Presto/2.9.172 Version/12.00
+Opera/9.10.(X11; Linux i686; ht-HT) Presto/2.9.187 Version/12.00
+Opera/9.10.(X11; Linux i686; kw-GB) Presto/2.9.168 Version/12.00
+Opera/9.10.(X11; Linux i686; ta-IN) Presto/2.9.172 Version/12.00
+Opera/9.10.(X11; Linux x86_64; ber-DZ) Presto/2.9.167 Version/10.00
+Opera/9.11.(Windows 98; fi-FI) Presto/2.9.170 Version/12.00
+Opera/9.11.(Windows NT 5.1; ha-NG) Presto/2.9.160 Version/12.00
+Opera/9.11.(X11; Linux x86_64; sc-IT) Presto/2.9.162 Version/12.00
+Opera/9.12.(Windows NT 6.1; am-ET) Presto/2.9.160 Version/11.00
+Opera/9.13.(Windows NT 4.0; pap-CW) Presto/2.9.173 Version/11.00
+Opera/9.13.(Windows NT 5.01; mr-IN) Presto/2.9.184 Version/12.00
+Opera/9.13.(X11; Linux i686; sk-SK) Presto/2.9.190 Version/12.00
+Opera/9.13.(X11; Linux x86_64; sa-IN) Presto/2.9.186 Version/11.00
+Opera/9.14.(Windows 98; Win 9x 4.90; yi-US) Presto/2.9.187 Version/11.00
+Opera/9.14.(X11; Linux i686; yue-HK) Presto/2.9.182 Version/12.00
+Opera/9.14.(X11; Linux x86_64; cmn-TW) Presto/2.9.175 Version/12.00
+Opera/9.16.(X11; Linux i686; nl-AW) Presto/2.9.189 Version/10.00
+Opera/9.16.(X11; Linux i686; ru-UA) Presto/2.9.161 Version/11.00
+Opera/9.17.(Windows 98; Win 9x 4.90; yi-US) Presto/2.9.167 Version/11.00
+Opera/9.17.(X11; Linux x86_64; ast-ES) Presto/2.9.188 Version/10.00
+Opera/9.18.(X11; Linux i686; it-IT) Presto/2.9.164 Version/11.00
+Opera/9.19.(Windows NT 6.1; bo-CN) Presto/2.9.172 Version/12.00
+Opera/9.19.(X11; Linux i686; pa-IN) Presto/2.9.183 Version/10.00
+Opera/9.19.(X11; Linux i686; ro-RO) Presto/2.9.163 Version/12.00
+Opera/9.19.(X11; Linux x86_64; hr-HR) Presto/2.9.180 Version/11.00
+Opera/9.20.(Windows NT 6.2; pa-PK) Presto/2.9.187 Version/11.00
+Opera/9.20.(X11; Linux i686; tcy-IN) Presto/2.9.160 Version/10.00
+Opera/9.20.(X11; Linux x86_64; tig-ER) Presto/2.9.190 Version/12.00
+Opera/9.21.(Windows NT 5.1; tg-TJ) Presto/2.9.184 Version/12.00
+Opera/9.21.(Windows NT 5.2; crh-UA) Presto/2.9.160 Version/11.00
+Opera/9.21.(X11; Linux i686; mk-MK) Presto/2.9.163 Version/12.00
+Opera/9.21.(X11; Linux i686; sd-PK) Presto/2.9.162 Version/11.00
+Opera/9.21.(X11; Linux i686; sid-ET) Presto/2.9.163 Version/11.00
+Opera/9.21.(X11; Linux x86_64; id-ID) Presto/2.9.180 Version/10.00
+Opera/9.22.(Windows 98; doi-IN) Presto/2.9.161 Version/12.00
+Opera/9.22.(Windows NT 10.0; fur-IT) Presto/2.9.164 Version/10.00
+Opera/9.22.(Windows NT 5.1; fur-IT) Presto/2.9.175 Version/11.00
+Opera/9.22.(X11; Linux x86_64; gu-IN) Presto/2.9.168 Version/10.00
+Opera/9.23.(Windows 95; uz-UZ) Presto/2.9.166 Version/11.00
+Opera/9.23.(X11; Linux i686; lt-LT) Presto/2.9.162 Version/10.00
+Opera/9.24.(Windows 98; tl-PH) Presto/2.9.165 Version/10.00
+Opera/9.24.(Windows NT 4.0; ht-HT) Presto/2.9.166 Version/12.00
+Opera/9.24.(X11; Linux x86_64; ks-IN) Presto/2.9.190 Version/11.00
+Opera/9.25.(Windows NT 5.01; my-MM) Presto/2.9.190 Version/12.00
+Opera/9.25.(Windows NT 6.2; an-ES) Presto/2.9.188 Version/11.00
+Opera/9.26.(Windows 95; bhb-IN) Presto/2.9.190 Version/10.00
+Opera/9.26.(Windows NT 10.0; iu-CA) Presto/2.9.178 Version/10.00
+Opera/9.26.(X11; Linux x86_64; dz-BT) Presto/2.9.166 Version/11.00
+Opera/9.27.(Windows NT 11.0; lt-LT) Presto/2.9.166 Version/10.00
+Opera/9.27.(Windows NT 5.01; es-AR) Presto/2.9.164 Version/12.00
+Opera/9.27.(X11; Linux i686; ku-TR) Presto/2.9.169 Version/11.00
+Opera/9.27.(X11; Linux x86_64; yo-NG) Presto/2.9.183 Version/10.00
+Opera/9.28.(Windows CE; sr-RS) Presto/2.9.186 Version/11.00
+Opera/9.28.(X11; Linux x86_64; tn-ZA) Presto/2.9.182 Version/10.00
+Opera/9.29.(Windows NT 6.1; pt-BR) Presto/2.9.181 Version/11.00
+Opera/9.29.(X11; Linux x86_64; ha-NG) Presto/2.9.166 Version/10.00
+Opera/9.32.(Windows NT 11.0; mni-IN) Presto/2.9.184 Version/11.00
+Opera/9.32.(X11; Linux i686; iu-CA) Presto/2.9.164 Version/11.00
+Opera/9.32.(X11; Linux x86_64; gl-ES) Presto/2.9.181 Version/10.00
+Opera/9.35.(Windows 98; Win 9x 4.90; sv-FI) Presto/2.9.172 Version/11.00
+Opera/9.35.(X11; Linux i686; ss-ZA) Presto/2.9.172 Version/10.00
+Opera/9.36.(Windows CE; unm-US) Presto/2.9.181 Version/12.00
+Opera/9.37.(X11; Linux i686; li-NL) Presto/2.9.185 Version/11.00
+Opera/9.37.(X11; Linux i686; raj-IN) Presto/2.9.165 Version/10.00
+Opera/9.37.(X11; Linux x86_64; wa-BE) Presto/2.9.189 Version/11.00
+Opera/9.38.(Windows 98; fur-IT) Presto/2.9.166 Version/10.00
+Opera/9.38.(X11; Linux x86_64; hu-HU) Presto/2.9.171 Version/12.00
+Opera/9.38.(X11; Linux x86_64; lg-UG) Presto/2.9.160 Version/11.00
+Opera/9.38.(X11; Linux x86_64; zu-ZA) Presto/2.9.171 Version/10.00
+Opera/9.39.(Windows NT 4.0; sa-IN) Presto/2.9.167 Version/10.00
+Opera/9.39.(Windows NT 5.1; nhn-MX) Presto/2.9.183 Version/10.00
+Opera/9.40.(X11; Linux x86_64; lij-IT) Presto/2.9.175 Version/11.00
+Opera/9.40.(X11; Linux x86_64; st-ZA) Presto/2.9.169 Version/11.00
+Opera/9.41.(Windows CE; ts-ZA) Presto/2.9.169 Version/10.00
+Opera/9.41.(Windows NT 10.0; sid-ET) Presto/2.9.181 Version/11.00
+Opera/9.41.(X11; Linux x86_64; fy-NL) Presto/2.9.187 Version/10.00
+Opera/9.43.(Windows NT 6.1; hak-TW) Presto/2.9.166 Version/12.00
+Opera/9.43.(X11; Linux i686; hsb-DE) Presto/2.9.164 Version/10.00
+Opera/9.43.(X11; Linux i686; hy-AM) Presto/2.9.160 Version/11.00
+Opera/9.44.(Windows CE; ik-CA) Presto/2.9.183 Version/12.00
+Opera/9.44.(Windows NT 4.0; ar-IL) Presto/2.9.173 Version/11.00
+Opera/9.44.(Windows NT 6.1; my-MM) Presto/2.9.160 Version/12.00
+Opera/9.45.(Windows NT 5.1; aa-ER) Presto/2.9.177 Version/11.00
+Opera/9.45.(X11; Linux i686; mt-MT) Presto/2.9.178 Version/12.00
+Opera/9.46.(Windows NT 6.1; ia-FR) Presto/2.9.179 Version/11.00
+Opera/9.46.(X11; Linux i686; si-LK) Presto/2.9.182 Version/12.00
+Opera/9.47.(Windows NT 11.0; kk-KZ) Presto/2.9.185 Version/12.00
+Opera/9.48.(X11; Linux x86_64; fa-IR) Presto/2.9.168 Version/11.00
+Opera/9.49.(X11; Linux x86_64; os-RU) Presto/2.9.182 Version/11.00
+Opera/9.50.(Windows NT 5.2; bo-CN) Presto/2.9.176 Version/11.00
+Opera/9.51.(Windows 98; sk-SK) Presto/2.9.162 Version/11.00
+Opera/9.51.(Windows NT 10.0; ne-NP) Presto/2.9.177 Version/11.00
+Opera/9.52.(X11; Linux i686; tn-ZA) Presto/2.9.180 Version/10.00
+Opera/9.52.(X11; Linux x86_64; as-IN) Presto/2.9.186 Version/10.00
+Opera/9.53.(Windows NT 11.0; sk-SK) Presto/2.9.174 Version/10.00
+Opera/9.53.(Windows NT 6.0; ik-CA) Presto/2.9.184 Version/12.00
+Opera/9.54.(Windows NT 4.0; mg-MG) Presto/2.9.173 Version/12.00
+Opera/9.54.(Windows NT 5.01; yo-NG) Presto/2.9.165 Version/12.00
+Opera/9.54.(Windows NT 5.1; mag-IN) Presto/2.9.176 Version/11.00
+Opera/9.54.(X11; Linux i686; bn-IN) Presto/2.9.162 Version/10.00
+Opera/9.55.(X11; Linux i686; cs-CZ) Presto/2.9.172 Version/11.00
+Opera/9.55.(X11; Linux i686; de-DE) Presto/2.9.169 Version/11.00
+Opera/9.55.(X11; Linux i686; hak-TW) Presto/2.9.180 Version/11.00
+Opera/9.56.(Windows 95; ky-KG) Presto/2.9.177 Version/12.00
+Opera/9.56.(Windows 98; Win 9x 4.90; zu-ZA) Presto/2.9.186 Version/11.00
+Opera/9.56.(X11; Linux i686; kok-IN) Presto/2.9.170 Version/12.00
+Opera/9.56.(X11; Linux i686; lg-UG) Presto/2.9.171 Version/12.00
+Opera/9.56.(X11; Linux x86_64; apn-IN) Presto/2.9.174 Version/11.00
+Opera/9.57.(Windows NT 5.2; sl-SI) Presto/2.9.177 Version/10.00
+Opera/9.57.(X11; Linux i686; wae-CH) Presto/2.9.170 Version/12.00
+Opera/9.57.(X11; Linux x86_64; sd-PK) Presto/2.9.184 Version/12.00
+Opera/9.58.(X11; Linux i686; af-ZA) Presto/2.9.168 Version/10.00
+Opera/9.59.(Windows NT 6.1; or-IN) Presto/2.9.161 Version/10.00
+Opera/9.60.(Windows NT 5.0; hak-TW) Presto/2.9.187 Version/12.00
+Opera/9.60.(X11; Linux i686; mk-MK) Presto/2.9.161 Version/10.00
+Opera/9.61.(Windows NT 4.0; dz-BT) Presto/2.9.185 Version/11.00
+Opera/9.61.(X11; Linux x86_64; ckb-IQ) Presto/2.9.171 Version/11.00
+Opera/9.63.(X11; Linux i686; bhb-IN) Presto/2.9.164 Version/11.00
+Opera/9.63.(X11; Linux i686; da-DK) Presto/2.9.185 Version/10.00
+Opera/9.64.(Windows 95; as-IN) Presto/2.9.175 Version/10.00
+Opera/9.64.(Windows 98; quz-PE) Presto/2.9.165 Version/11.00
+Opera/9.64.(Windows NT 5.01; et-EE) Presto/2.9.165 Version/10.00
+Opera/9.64.(Windows NT 6.2; ha-NG) Presto/2.9.175 Version/10.00
+Opera/9.64.(X11; Linux i686; es-VE) Presto/2.9.160 Version/12.00
+Opera/9.64.(X11; Linux x86_64; ar-EH) Presto/2.9.179 Version/12.00
+Opera/9.65.(Windows 98; Win 9x 4.90; is-IS) Presto/2.9.161 Version/12.00
+Opera/9.65.(Windows CE; kw-GB) Presto/2.9.173 Version/11.00
+Opera/9.65.(Windows NT 5.2; hy-AM) Presto/2.9.187 Version/10.00
+Opera/9.65.(X11; Linux i686; ts-ZA) Presto/2.9.160 Version/10.00
+Opera/9.65.(X11; Linux x86_64; id-ID) Presto/2.9.163 Version/12.00
+Opera/9.65.(X11; Linux x86_64; ik-CA) Presto/2.9.172 Version/10.00
+Opera/9.66.(X11; Linux i686; mk-MK) Presto/2.9.171 Version/11.00
+Opera/9.66.(X11; Linux i686; raj-IN) Presto/2.9.172 Version/10.00
+Opera/9.66.(X11; Linux i686; wo-SN) Presto/2.9.168 Version/11.00
+Opera/9.67.(Windows NT 5.01; ast-ES) Presto/2.9.182 Version/11.00
+Opera/9.67.(Windows NT 5.01; hr-HR) Presto/2.9.173 Version/10.00
+Opera/9.67.(Windows NT 6.0; nso-ZA) Presto/2.9.175 Version/11.00
+Opera/9.67.(X11; Linux x86_64; os-RU) Presto/2.9.186 Version/11.00
+Opera/9.68.(Windows NT 5.1; pl-PL) Presto/2.9.170 Version/11.00
+Opera/9.68.(X11; Linux i686; ht-HT) Presto/2.9.190 Version/10.00
+Opera/9.68.(X11; Linux x86_64; ia-FR) Presto/2.9.181 Version/11.00
+Opera/9.70.(X11; Linux i686; mi-NZ) Presto/2.9.180 Version/10.00
+Opera/9.70.(X11; Linux x86_64; fur-IT) Presto/2.9.166 Version/12.00
+Opera/9.71.(Windows NT 5.01; ta-IN) Presto/2.9.187 Version/11.00
+Opera/9.71.(X11; Linux i686; ca-ES) Presto/2.9.174 Version/10.00
+Opera/9.72.(Windows 95; hu-HU) Presto/2.9.187 Version/10.00
+Opera/9.72.(Windows NT 11.0; zu-ZA) Presto/2.9.169 Version/11.00
+Opera/9.72.(Windows NT 5.0; nds-DE) Presto/2.9.188 Version/11.00
+Opera/9.73.(X11; Linux i686; an-ES) Presto/2.9.190 Version/11.00
+Opera/9.74.(Windows 98; lv-LV) Presto/2.9.171 Version/12.00
+Opera/9.74.(X11; Linux i686; as-IN) Presto/2.9.170 Version/11.00
+Opera/9.74.(X11; Linux i686; or-IN) Presto/2.9.187 Version/12.00
+Opera/9.74.(X11; Linux x86_64; iw-IL) Presto/2.9.178 Version/11.00
+Opera/9.74.(X11; Linux x86_64; nn-NO) Presto/2.9.188 Version/10.00
+Opera/9.75.(Windows NT 5.01; ja-JP) Presto/2.9.160 Version/11.00
+Opera/9.75.(X11; Linux i686; cy-GB) Presto/2.9.176 Version/10.00
+Opera/9.76.(X11; Linux x86_64; nhn-MX) Presto/2.9.183 Version/11.00
+Opera/9.77.(Windows NT 5.0; ik-CA) Presto/2.9.183 Version/12.00
+Opera/9.77.(X11; Linux i686; ky-KG) Presto/2.9.184 Version/11.00
+Opera/9.77.(X11; Linux i686; or-IN) Presto/2.9.169 Version/10.00
+Opera/9.78.(Windows NT 5.0; da-DK) Presto/2.9.165 Version/10.00
+Opera/9.78.(X11; Linux i686; nso-ZA) Presto/2.9.172 Version/12.00
+Opera/9.78.(X11; Linux x86_64; sat-IN) Presto/2.9.175 Version/11.00
+Opera/9.79.(Windows NT 11.0; lb-LU) Presto/2.9.167 Version/10.00
+Opera/9.79.(X11; Linux x86_64; tk-TM) Presto/2.9.160 Version/12.00
+Opera/9.80.(X11; Linux i686; kl-GL) Presto/2.9.174 Version/11.00
+Opera/9.80.(X11; Linux x86_64; sv-FI) Presto/2.9.189 Version/11.00
+Opera/9.81.(Windows NT 10.0; ne-NP) Presto/2.9.179 Version/11.00
+Opera/9.81.(Windows NT 5.2; kw-GB) Presto/2.9.171 Version/10.00
+Opera/9.81.(X11; Linux i686; raj-IN) Presto/2.9.184 Version/11.00
+Opera/9.81.(X11; Linux x86_64; ht-HT) Presto/2.9.184 Version/11.00
+Opera/9.81.(X11; Linux x86_64; ne-NP) Presto/2.9.171 Version/12.00
+Opera/9.82.(X11; Linux i686; mi-NZ) Presto/2.9.184 Version/10.00
+Opera/9.82.(X11; Linux x86_64; da-DK) Presto/2.9.167 Version/11.00
+Opera/9.83.(Windows NT 5.1; ayc-PE) Presto/2.9.162 Version/10.00
+Opera/9.83.(Windows NT 5.1; mai-IN) Presto/2.9.183 Version/12.00
+Opera/9.83.(X11; Linux i686; ks-IN) Presto/2.9.179 Version/10.00
+Opera/9.84.(Windows 98; ak-GH) Presto/2.9.173 Version/11.00
+Opera/9.84.(Windows 98; ce-RU) Presto/2.9.164 Version/10.00
+Opera/9.84.(Windows CE; pt-PT) Presto/2.9.181 Version/12.00
+Opera/9.85.(X11; Linux x86_64; crh-UA) Presto/2.9.180 Version/11.00
+Opera/9.86.(X11; Linux x86_64; iw-IL) Presto/2.9.167 Version/10.00
+Opera/9.87.(Windows CE; be-BY) Presto/2.9.189 Version/11.00
+Opera/9.87.(Windows CE; ml-IN) Presto/2.9.190 Version/12.00
+Opera/9.87.(X11; Linux i686; bn-BD) Presto/2.9.179 Version/12.00
+Opera/9.88.(Windows CE; wa-BE) Presto/2.9.160 Version/10.00
+Opera/9.88.(Windows NT 10.0; tl-PH) Presto/2.9.182 Version/12.00
+Opera/9.88.(Windows NT 5.0; lg-UG) Presto/2.9.165 Version/12.00
+Opera/9.88.(Windows NT 6.1; tcy-IN) Presto/2.9.167 Version/10.00
+Opera/9.88.(X11; Linux x86_64; tn-ZA) Presto/2.9.181 Version/12.00
+Opera/9.89.(X11; Linux x86_64; iu-CA) Presto/2.9.189 Version/10.00
+Opera/9.90.(Windows 95; dv-MV) Presto/2.9.164 Version/11.00
+Opera/9.90.(Windows 98; Win 9x 4.90; kn-IN) Presto/2.9.188 Version/10.00
+Opera/9.90.(Windows NT 5.01; cy-GB) Presto/2.9.188 Version/10.00
+Opera/9.90.(X11; Linux i686; lij-IT) Presto/2.9.170 Version/10.00
+Opera/9.90.(X11; Linux x86_64; bs-BA) Presto/2.9.168 Version/10.00
+Opera/9.91.(X11; Linux i686; bhb-IN) Presto/2.9.175 Version/10.00
+Opera/9.91.(X11; Linux x86_64; pl-PL) Presto/2.9.171 Version/12.00
+Opera/9.92.(Windows NT 5.01; mni-IN) Presto/2.9.186 Version/10.00
+Opera/9.92.(Windows NT 6.1; or-IN) Presto/2.9.183 Version/12.00
+Opera/9.93.(Windows NT 4.0; bo-IN) Presto/2.9.185 Version/11.00
+Opera/9.93.(Windows NT 4.0; sk-SK) Presto/2.9.182 Version/12.00
+Opera/9.93.(X11; Linux i686; eo-US) Presto/2.9.168 Version/11.00
+Opera/9.93.(X11; Linux i686; yi-US) Presto/2.9.182 Version/12.00
+Opera/9.93.(X11; Linux x86_64; shs-CA) Presto/2.9.171 Version/11.00
+Opera/9.94.(Windows NT 5.0; ko-KR) Presto/2.9.176 Version/12.00
+Opera/9.94.(X11; Linux i686; ko-KR) Presto/2.9.183 Version/10.00
+Opera/9.94.(X11; Linux i686; the-NP) Presto/2.9.180 Version/10.00
+Opera/9.94.(X11; Linux x86_64; raj-IN) Presto/2.9.178 Version/11.00
+Opera/9.95.(Windows NT 6.0; az-AZ) Presto/2.9.163 Version/11.00
+Opera/9.95.(X11; Linux i686; lij-IT) Presto/2.9.162 Version/11.00
+Opera/9.96.(Windows NT 10.0; pap-AN) Presto/2.9.161 Version/10.00
+Opera/9.96.(X11; Linux i686; br-FR) Presto/2.9.165 Version/12.00
+Opera/9.96.(X11; Linux x86_64; tg-TJ) Presto/2.9.176 Version/10.00
+Opera/9.97.(Windows NT 5.0; lb-LU) Presto/2.9.184 Version/10.00
+Opera/9.97.(X11; Linux i686; ce-RU) Presto/2.9.170 Version/10.00
+Opera/9.97.(X11; Linux i686; sr-RS) Presto/2.9.177 Version/12.00
+Opera/9.97.(X11; Linux i686; zh-CN) Presto/2.9.187 Version/10.00
+Opera/9.98.(Windows 98; sq-AL) Presto/2.9.162 Version/11.00
+Opera/9.98.(Windows NT 6.2; hsb-DE) Presto/2.9.188 Version/12.00
+Opera/9.98.(X11; Linux i686; en-ZM) Presto/2.9.186 Version/10.00
+Opera/9.98.(X11; Linux i686; sid-ET) Presto/2.9.174 Version/10.00
+Opera/9.98.(X11; Linux x86_64; bem-ZM) Presto/2.9.183 Version/12.00
+Opera/9.98.(X11; Linux x86_64; ne-NP) Presto/2.9.175 Version/12.00
+Opera/9.99.(Windows NT 5.0; hsb-DE) Presto/2.9.188 Version/12.00
+Opera/9.99.(Windows NT 6.2; ig-NG) Presto/2.9.161 Version/11.00
