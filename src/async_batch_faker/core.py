@@ -1,20 +1,23 @@
+from __future__ import annotations
+
 import asyncio
 import csv
 import difflib
 import uuid
 from pathlib import Path
+from typing import ClassVar
 
 import numpy as np
 from faker import Faker
 
 
 class AsyncBatchFaker:
-    # Class-level caches: Memory is shared across ALL instances!
-    _cache = {}
-    _faker_cache = {}  # Cache for the standard Faker engine
-    _providers_cache = {}  # Cache for the list of available providers
+    # Class-level caches annotated correctly with ClassVar to satisfy Ruff RUF012
+    _cache: ClassVar[dict] = {}
+    _faker_cache: ClassVar[dict] = {}  # Cache for the standard Faker engine
+    _providers_cache: ClassVar[dict] = {}  # Cache for the list of available providers
 
-    def __init__(self, locale="en_US", seed: int | None = None):
+    def __init__(self, locale: str = "en_US", seed: int | None = None):
         self.locale = locale
         self.seed = seed  # Save this to seed the fallback faker later
         self.rng = np.random.default_rng(seed)
@@ -264,6 +267,6 @@ class AsyncBatchFaker:
                 print(f"✍️ Generating {total:,} rows and saving to {filename}...")
                 async for batch in self.generate_batches(schema, total, batch_size):
                     writer.writerows(batch)
-            print("✅ CSV Export Complete!")
+                print("✅ CSV Export Complete!")
 
         asyncio.run(_run_export())
