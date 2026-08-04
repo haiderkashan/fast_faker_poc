@@ -9,10 +9,17 @@ Built to solve the bottleneck of seeding massive databases in modern web framewo
 
 ## 🚀 Performance
 
-Benchmarked generating 100,000 complex records (UUIDs, localized names, emails, IPs, crypto codes) on a standard machine:
+Benchmarked generating complex records (UUIDs, localized names, emails, IPs, crypto codes) comparing standard Python `Faker` against `Async Batch Faker` across varying scales:
 
-- **Standard Python Faker:** ~9,000 rows / second
-- **Async Batch Faker:** ~116,000 rows / second **(12.8x Faster)**
+### Benchmark Results
+
+| Rows    | Faker Time | async-batch-faker Time | Speedup          | Standard RAM | Async RAM |
+| ------- | ---------- | ---------------------- | ---------------- | ------------ | --------- |
+| 10,000  | 34.69s     | **2.7194s**            | **12.8x Faster** | 4.9 MB       | 135.5 MB  |
+| 50,000  | 175.58s    | **5.7701s**            | **30.4x Faster** | 19.7 MB      | 143.8 MB  |
+| 100,000 | 348.94s    | **8.4659s**            | **41.2x Faster** | 39.2 MB      | 180.2 MB  |
+
+_Benchmark Environment: Windows 10 (AMD64), Python 3.11.9_
 
 ## ✨ Killer Features
 
