@@ -1,0 +1,37 @@
+name: ✨ Feature Request
+description: Suggest an idea, a new dataset, or an optimization for async-batch-faker
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in making `async-batch-faker` even better! 
+        Please remember that speed is our primary goal. If this feature adds heavy overhead, we may need to discuss architectural workarounds.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your feature request related to a problem?
+      description: A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the solution you'd like
+      description: A clear and concise description of what you want to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      description: A clear and concise description of any alternative solutions or features you've considered.
+  - type: checkboxes
+    id: performance
+    attributes:
+      label: Performance Check
+      description: Acknowledge the core philosophy of this library.
+      options:
+        - label: I believe this feature can be implemented without slowing down the core vectorized generator.
+          required: true
